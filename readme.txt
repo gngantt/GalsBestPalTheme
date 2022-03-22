@@ -1,5 +1,5 @@
-=== Understrap ===
-Contributors: howarddc
+=== GalsBestPalTheme ===
+Contributors: GreeField Org
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
 Requires at least: 5.0
 Tested up to: 5.7.2
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-The renowned WordPress starter theme framework that combines Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
+Custon  WordPress theme framework using  Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
 
 Website: [https://understrap.com](https://understrap.com)
 
