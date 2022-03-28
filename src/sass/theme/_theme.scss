@@ -1,1 +1,29 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+
+$blush: #DFBABA;
+$pink: #EFA1CA;
+$black: #010101;
+$white: #fff;
+$bs-primary-rgb: $primary;
+
+@font-face {
+    font-family: 'Gagalin';
+    src: url('../fonts/Gagalin-Regular.ttf') format('truetype');
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: $black !important;
+}
+
+.navbar-brand {
+    font-family: 'Gagalin';
+    font-size: 48px;
+}
+
+.navbar-brand a {
+    color: $black !important;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    color: #010101 !important;
+}
