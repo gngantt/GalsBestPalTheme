@@ -19,50 +19,62 @@ get_header();
 $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
-<?php if ( is_front_page() && is_home() ) : ?>
-	<?php get_template_part( 'global-templates/hero' ); ?>
-<?php endif; ?>
+
 
 <div class="wrapper" id="index-wrapper">
 
-	<div class="<?php echo esc_attr( $container ); ?>" id="content" tabindex="-1">
-
+	<div class="container">
 		<div class="row">
+			<div class="col-3 logo-holder">
+				<img class="img-fluid" 
+					src="<?php echo get_template_directory_uri(); ?>/images/logo.png" 
+					alt="Gals Best Pal logo"
+					height="500"
+					width="500"/>
+			</div>
+		</div>
 
-			<!-- Do the left sidebar check and opens the primary div -->
-			<?php get_template_part( 'global-templates/left-sidebar-check' ); ?>
+		<div class="row banner">
+			<h2>Our Story</h2>
+		</div>
 
-			<main class="site-main" id="main">
+		<div class="row justify-content-center">
+			<div class="col-9">
+				<p class="text">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in rescue and started a blog about her fosters and dogs she had come in contact with. 
+Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them and together have placed & fostered over 300 dogs! The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating Gals Best Pal would be the perfect step to assist more of these dogs at a pace we can keep up with.
+</p>
+			</div>
+		</div>
 
-				<?php
-				if ( have_posts() ) {
-					// Start the Loop.
-					while ( have_posts() ) {
-						the_post();
+		<div class="row justify-content-center gy-5">
+			<div class="col-2">
+				<div class="photo"></div>
+			</div>
+			<div class="col-2">
+				<div class="photo"></div>
+			</div>
+			<div class="col-2">
+				<div class="photo"></div>
+			</div>
+		</div>
 
-						/*
-						 * Include the Post-Format-specific template for the content.
-						 * If you want to override this in a child theme, then include a file
-						 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
-						 */
-						get_template_part( 'loop-templates/content', get_post_format() );
-					}
-				} else {
-					get_template_part( 'loop-templates/content', 'none' );
-				}
-				?>
+		<div class="row banner">
+			<h2>Our Mission</h2>
+		</div>
 
-			</main><!-- #main -->
+		<div class="row justify-content-center">
+			<div class="col-9">
+				<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs.</p>
+			</div>
+		</div>
 
-			<!-- The pagination component -->
-			<?php understrap_pagination(); ?>
-
-			<!-- Do the right sidebar check -->
-			<?php get_template_part( 'global-templates/right-sidebar-check' ); ?>
-
-		</div><!-- .row -->
-
-	</div><!-- #content -->
+		<div class="row justify-content-center">
+			<div class="col-6 mailing">
+				<i class="fa fa-envelope-o fa-5x"></i>
+				<p>Join our mailing list!</p>
+			</div>
+		</div>
+	</div>
 
 </div><!-- #index-wrapper -->
 
