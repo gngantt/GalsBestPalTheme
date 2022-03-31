@@ -25,7 +25,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<div class="container">
 		<div class="row">
-			<div class="col-3 logo-holder">
+			<div class="col-xs-6 col-sm-6 col-md-5 col-lg-3 logo-holder">
 				<img class="img-fluid" 
 					src="<?php echo get_template_directory_uri(); ?>/images/logo.png" 
 					alt="Gals Best Pal logo"
@@ -35,7 +35,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		</div>
 
 		<div class="row banner">
-			<h2>Our Story</h2>
+			<h1>Our Story</h1>
 		</div>
 
 		<div class="row justify-content-center">
@@ -47,7 +47,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 		</div>
 
 		<div class="row justify-content-center my-5">
-			<div class="col-xs-5 col-lg-2 m-5">
+			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
 				<div class="photo">
 					<div class="polaroid">
 						<img class="img-fluid" 
@@ -59,7 +59,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					<p class="hand">Adopt</p>
 				</div>
 			</div>
-			<div class="col-xs-5 col-lg-2 m-5">
+			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
 				<div class="photo">
 					<div class="polaroid">
 						<img class="img-fluid" 
@@ -71,7 +71,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					<p class="hand">Foster</p>
 				</div>
 			</div>
-			<div class="col-xs-5 col-lg-2 m-5">
+			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
 				<div class="photo">
 					<div class="polaroid">
 						<img class="img-fluid" 
@@ -96,12 +96,12 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 		</div>
 
 		<div class="row justify-content-center align-baseline py-5">
-			<div class="col-3">
+			<div class="col-xs-3 col-sm-3 col-lg-3">
 				<img class="img-fluid" 
 					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
 					alt="Silhouette of a dog barking"/>
 			</div>
-			<div class="col-6 mailing">
+			<div class="col-xs-12 col-sm-10 col-lg-6 mailing">
 				<i class="fa fa-envelope-o fa-4x"></i>
 				<p>Join our mailing list!</p>
 			</div>

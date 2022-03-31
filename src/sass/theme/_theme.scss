@@ -38,11 +38,12 @@ body {
 
 .navbar-brand {
     font-family: 'Gagalin';
-    font-size: 48px;
+    font-size: 36px;
 }
 
 .navbar-brand a {
     color: $black !important;
+    text-decoration: none;
 }
 
 .navbar-dark .navbar-toggler-icon {
@@ -88,7 +89,7 @@ body {
 
 .hand {
     text-align: center;
-    font-family: 'HattonLight';
+    font-family: 'Anton';
     font-size: 1.8em;
 }
 
@@ -107,4 +108,12 @@ body {
     font-family: 'Anton';
     color: #fff;
     font-size: 36px;
+}
+
+@media screen and (min-width: 782px) {
+      
+}
+
+@media screen and (max-width: 781px) {
+       
 }
