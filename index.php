@@ -46,15 +46,42 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 			</div>
 		</div>
 
-		<div class="row justify-content-center gy-5">
-			<div class="col-2">
-				<div class="photo"></div>
+		<div class="row justify-content-center my-5">
+			<div class="col-xs-5 col-lg-2 m-5">
+				<div class="photo">
+					<div class="polaroid">
+						<img class="img-fluid" 
+							src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
+							alt="Gals Best Pal logo"
+							height="100"
+							width="100"/>
+					</div>
+					<p class="hand">Adopt</p>
+				</div>
 			</div>
-			<div class="col-2">
-				<div class="photo"></div>
+			<div class="col-xs-5 col-lg-2 m-5">
+				<div class="photo">
+					<div class="polaroid">
+						<img class="img-fluid" 
+							src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
+							alt="Gals Best Pal logo"
+							height="100"
+							width="100"/>
+					</div>
+					<p class="hand">Foster</p>
+				</div>
 			</div>
-			<div class="col-2">
-				<div class="photo"></div>
+			<div class="col-xs-5 col-lg-2 m-5">
+				<div class="photo">
+					<div class="polaroid">
+						<img class="img-fluid" 
+							src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
+							alt="Gals Best Pal logo"
+							height="100"
+							width="100"/>
+					</div>
+					<p class="hand">Volunteer</p>
+				</div>
 			</div>
 		</div>
 
@@ -68,9 +95,14 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 			</div>
 		</div>
 
-		<div class="row justify-content-center">
+		<div class="row justify-content-center align-baseline py-5">
+			<div class="col-3">
+				<img class="img-fluid" 
+					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
+					alt="Silhouette of a dog barking"/>
+			</div>
 			<div class="col-6 mailing">
-				<i class="fa fa-envelope-o fa-5x"></i>
+				<i class="fa fa-envelope-o fa-4x"></i>
 				<p>Join our mailing list!</p>
 			</div>
 		</div>
