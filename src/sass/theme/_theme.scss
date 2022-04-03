@@ -32,6 +32,17 @@ body {
     background-size: 100%;
 }
 
+h1, h2, h4, h5, h6 {
+    font-family: 'Gagalin';
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Gagalin';
+    text-align: center;
+    color: #fff;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: $black !important;
 }
@@ -108,6 +119,10 @@ body {
     font-family: 'Anton';
     color: #fff;
     font-size: 36px;
+}
+
+.buttonImage {
+    height: 200px;
 }
 
 @media screen and (min-width: 782px) {
