@@ -12845,7 +12845,7 @@ body.understrap-no-sidebar .wp-block-cover.alignwide {
   margin-bottom: 1rem;
 }
 .wpcf7 .wpcf7-form label {
-  width: 100%;
+  width: 90%;
 }
 .wpcf7 .wpcf7-not-valid-tip {
   color: theme-color("danger");
@@ -15947,6 +15947,16 @@ body {
   background-size: 100%;
 }
 
+.btn-outline-primary, .wpcf7 input[type=submit] {
+  background: #ff0a85;
+  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  box-shadow: 12px 12px 2px 1px #010101;
+  border: 1px solid #010101;
+  color: #fff;
+  width: 90%;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: #010101 !important;
 }
@@ -16023,6 +16033,14 @@ body {
   font-family: "Anton";
   color: #fff;
   font-size: 36px;
+}
+
+.mail {
+  background: #ff950a;
+  background: linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  background: -webkit-linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  box-shadow: 12px 12px 2px 1px #010101;
+  border: 1px solid #010101;
 }
 
 /*# sourceMappingURL=theme.css.map */
