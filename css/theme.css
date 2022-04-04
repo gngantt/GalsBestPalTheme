@@ -15970,6 +15970,17 @@ a {
   border: 1px solid #010101;
 }
 
+h1, .h1, h2, .h2, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: "Gagalin";
+  text-align: center;
+}
+
+h3, .h3 {
+  font-family: "Gagalin";
+  text-align: center;
+  color: #fff;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: #010101 !important;
 }
@@ -16048,6 +16059,10 @@ a {
 
 .mailing p {
   font-size: 34px;
+}
+
+.buttonImage {
+  height: 200px;
 }
 
 /*# sourceMappingURL=theme.css.map */

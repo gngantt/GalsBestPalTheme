@@ -57,6 +57,17 @@ a {
     border: 1px solid $black;
 }
 
+h1, h2, h4, h5, h6 {
+    font-family: 'Gagalin';
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Gagalin';
+    text-align: center;
+    color: #fff;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: $black !important;
 }
@@ -136,6 +147,10 @@ a {
 
 .mailing p {
     font-size: 34px;
+}
+
+.buttonImage {
+    height: 200px;
 }
 
 @media screen and (min-width: 782px) {
