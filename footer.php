@@ -33,7 +33,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<a href="https://m.facebook.com/pg/galsbestpal/posts/?ref=page_internal">	
 							<i class="fa fa-facebook-square"></i>
 						</a>
-						<p>Made with love by Greenfield Development</p>
+						<a href="#" class="footertext">Donate</a>
+						<p>Made with ❤ by Greenfield Development</p>
 
 					</div><!-- .site-info -->
 
