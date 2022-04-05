@@ -49,6 +49,22 @@ $container = get_theme_mod( 'understrap_container_type' );
             <h2>Amazon Smile</h2>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+        <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
+                alt="amazon logo"
+                height="100"
+                width="100"/>
+        </div>
+        <div class="col">
+        <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
+                alt="amazon logo"
+                height="100"
+                width="100"/>
+        </div>
+    </div>
 </div>
 
 <?php
