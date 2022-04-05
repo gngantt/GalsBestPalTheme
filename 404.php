@@ -27,17 +27,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 						<header class="page-header">
 
-							<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'understrap' ); ?></h1>
+							<h1 class="page-title"><?php esc_html_e( 'Oops! You&rsquo;re looking for a page that can&rsquo;t be found.', 'understrap' ); ?></h1>
 
 						</header><!-- .page-header -->
 
 						<div class="page-content">
 
-							<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try a search?', 'understrap' ); ?></p>
+							<p><?php esc_html_e( 'But if you&rsquo;re looking for a new pet, we&rsquo;ve got plenty of dogs!', 'understrap' ); ?></p>
 
 							<?php get_search_form(); ?>
-
-							<?php the_widget( 'WP_Widget_Recent_Posts' ); ?>
 
 							<?php if ( understrap_categorized_blog() ) : // Only show the widget if site has multiple categories. ?>
 
@@ -62,15 +60,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 								</div><!-- .widget -->
 
 							<?php endif; ?>
-
-							<?php
-
-							/* translators: %1$s: smiley */
-							$archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'understrap' ), convert_smilies( ':)' ) ) . '</p>';
-							the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$archive_content" );
-
-							the_widget( 'WP_Widget_Tag_Cloud' );
-							?>
 
 						</div><!-- .page-content -->
 
