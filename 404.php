@@ -27,15 +27,19 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 						<header class="page-header">
 
-							<h1 class="page-title"><?php esc_html_e( 'Oops! You&rsquo;re looking for a page that can&rsquo;t be found.', 'understrap' ); ?></h1>
+						<img class="img-fluid" 
+							src="<?php echo get_template_directory_uri(); ?>/images/diggingdog.svg" 
+							alt="silhouette of a dog digging"
+							height="400"
+							width="400"/>
+
+							<h1 class="page-title"><?php esc_html_e( 'We did some digging and the page you&rsquo;re looking for can&rsquo;t be found.', 'understrap' ); ?></h1>
 
 						</header><!-- .page-header -->
 
 						<div class="page-content">
 
-							<p><?php esc_html_e( 'But if you&rsquo;re looking for a new pet, we&rsquo;ve got plenty of dogs!', 'understrap' ); ?></p>
-
-							<?php get_search_form(); ?>
+							<p><?php esc_html_e( 'But if you&rsquo;re looking for a new forever friend, we&rsquo;ve got plenty of dogs waiting for you!', 'understrap' ); ?></p>
 
 							<?php if ( understrap_categorized_blog() ) : // Only show the widget if site has multiple categories. ?>
 
