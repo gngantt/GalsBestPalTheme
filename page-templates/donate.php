@@ -21,18 +21,18 @@ $container = get_theme_mod( 'understrap_container_type' );
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text pt-2">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
+            <p class="text pt-0">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!
             </p>
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/donatebutton.svg" 
                 alt="Gals Best Pal logo"
-                height="300"
-                width="300"/>
+                height="250"
+                width="250"/>
+        </div>
+    </div>
         </div>
     </div>    
-    <div class="row justify-content-center">
-    </div>
     <div class="row justify-content-center">
         <h2>Will your employer match your donation?</h2>
     </div>
@@ -41,6 +41,13 @@ $container = get_theme_mod( 'understrap_container_type' );
             <h3>Double the donation!</h3>
         </div>
     </div>
+    <div class="row">
+        <div class="col">
+            <h2>Amazon Wishlist</h2>
+        </div>
+        <div class="col">
+            <h2>Amazon Smile</h2>
+        </div>
     </div>
 </div>
 
