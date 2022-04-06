@@ -52,7 +52,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					<div class="polaroid">
 						<img class="img-fluid" 
 							src="<?php echo get_template_directory_uri(); ?>/images/adoptdog.svg" 
-							alt="Gals Best Pal logo"
+							alt="Silhouette of a dog looking upwards"
 							height="150"
 							width="150"/>
 					</div>
@@ -64,7 +64,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					<div class="polaroid">
 						<img class="img-fluid" 
 							src="<?php echo get_template_directory_uri(); ?>/images/fosterdog.svg" 
-							alt="Gals Best Pal logo"
+							alt="Silhouette of a dog standing to the right"
 							height="160"
 							width="160"/>
 					</div>
@@ -76,7 +76,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					<div class="polaroid">
 						<img class="img-fluid" 
 							src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
-							alt="Gals Best Pal logo"
+							alt="Silhouette of a dog running"
 							height="150"
 							width="150"/>
 					</div>
