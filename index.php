@@ -77,8 +77,8 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 						<img class="img-fluid" 
 							src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
 							alt="Silhouette of a dog running"
-							height="150"
-							width="150"/>
+							height="250"
+							width="250"/>
 					</div>
 					<p class="hand">Volunteer</p>
 				</div>
