@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text pt-0">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
+            <p class="text pt-0 ">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!
             </p>
             <img class="img-fluid" 
