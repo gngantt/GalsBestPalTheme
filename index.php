@@ -47,41 +47,47 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 		</div>
 
 		<div class="row justify-content-center my-5">
-			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
-				<div class="photo-image">
-					<div class="polaroid">
-						<img class="img-fluid" 
-							src="<?php echo get_template_directory_uri(); ?>/images/adoptdog.svg" 
-							alt="Silhouette of a dog looking upwards"
-							height="150"
-							width="150"/>
+			<div class="col-xs-12 col-sm-7 col-lg-3">
+				<a role="button" class="photo-btn" href="/adoption">
+					<div class="photo-image">
+						<div class="polaroid">
+							<img class="img-fluid" 
+								src="<?php echo get_template_directory_uri(); ?>/images/adoptdog.svg" 
+								alt="Silhouette of a dog looking upwards"
+								height="150"
+								width="150"/>
+						</div>
+						<p class="hand">Adopt</p>
 					</div>
-					<p class="hand">Adopt</p>
-				</div>
+				</a>
 			</div>
-			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
-				<div class="photo-image">
-					<div class="polaroid">
-						<img class="img-fluid" 
-							src="<?php echo get_template_directory_uri(); ?>/images/fosterdog.svg" 
-							alt="Silhouette of a dog standing to the right"
-							height="160"
-							width="160"/>
+			<div class="col-xs-12 col-sm-7 col-lg-3">
+				<a role="button" class="photo-btn" href="/foster">
+					<div class="photo-image">
+						<div class="polaroid">
+							<img class="img-fluid" 
+								src="<?php echo get_template_directory_uri(); ?>/images/fosterdog.svg" 
+								alt="Silhouette of a dog standing to the right"
+								height="150"
+								width="150"/>
+						</div>
+						<p class="hand">Foster</p>
 					</div>
-					<p class="hand">Foster</p>
-				</div>
+				</a>
 			</div>
-			<div class="col-xs-12 col-sm-7 col-lg-2 m-5">
-				<div class="photo-image">
-					<div class="polaroid">
-						<img class="img-fluid" 
-							src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
-							alt="Silhouette of a dog running"
-							height="250"
-							width="250"/>
+			<div class="col-xs-12 col-sm-7 col-lg-3">
+				<a role="button" class="photo-btn" href="/volunteer">
+					<div class="photo-image">
+						<div class="polaroid">
+							<img class="img-fluid" 
+								src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
+								alt="Silhouette of a dog running"
+								height="150"
+								width="150"/>
+						</div>
+						<p class="hand">Volunteer</p>
 					</div>
-					<p class="hand">Volunteer</p>
-				</div>
+				</a>
 			</div>
 		</div>
 

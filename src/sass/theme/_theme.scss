@@ -37,15 +37,15 @@ a {
     color: $black;
 }
 
-.wp-block-search__button {
-    background: hsla(330, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    box-shadow: 12px 12px 2px 1px $black;
-    border: 1px solid $black;
-    border-radius: 10px;
-    color: #fff;
+.banner {
+    font-family: 'Gagalin';
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.buttonImage {
+    height: 200px;
 }
 
 .btn-secondary {
@@ -55,17 +55,6 @@ a {
     background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
     box-shadow: 12px 12px 2px 1px $black;
     border: 1px solid $black;
-}
-
-h1, h2, h4, h5, h6 {
-    font-family: 'Gagalin';
-    text-align: center;
-}
-
-h3 {
-    font-family: 'Gagalin';
-    text-align: center;
-    color: #fff;
 }
 
 .btn-outline-primary {
@@ -79,62 +68,7 @@ h3 {
     width: 90%;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-    color: $black !important;
-}
-
-.navbar-brand {
-    font-family: 'Gagalin';
-    font-size: 36px;
-}
-
-.navbar-brand a {
-    color: $black !important;
-    text-decoration: none;
-}
-
-.navbar-dark .navbar-toggler-icon {
-    color: #010101 !important;
-}
-
-.logo-holder {
-   text-align: center;
-   background-color: #ebded4;
-   margin: 0 auto;
-}
-
-.banner {
-    font-family: 'Gagalin';
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 10px;
-}
-
-.text {
-    font-family: 'Anonymous';
-    text-align: center;
-    margin-bottom: 50px;
-}
-
-.photo-image {
-    background-color: #fff;
-    height: 230px;
-    box-shadow: 12px 12px 2px 1px;
-    border: 1px solid $black;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.polaroid {
-    background-color: $black;
-    height: 150px;
-    width: 90%;
-    margin: 10px auto;
-}
-
-.footer{
+.footer {
     background-color: #DFBABA;
 }
 
@@ -152,6 +86,32 @@ h3 {
     text-align: center;
     font-family: 'Anton';
     font-size: 1.8em;
+}
+
+h1, h2, h4, h5, h6 {
+    font-family: 'Gagalin';
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Gagalin';
+    text-align: center;
+    color: #fff;
+}
+
+.logo-holder {
+    text-align: center;
+    background-color: #ebded4;
+    margin: 0 auto;
+ }
+
+.mail {
+    background: hsla(34, 100%, 52%, 1);
+    background: linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
+    background: -moz-linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
+    background: -webkit-linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
+    box-shadow: 12px 12px 2px 1px $black;
+    border: 1px solid $black;
 }
 
 .mailing {
@@ -174,17 +134,65 @@ h3 {
     font-size: 34px;
 }
 
-.buttonImage {
-    height: 200px;
+.navbar-dark .navbar-nav .nav-link {
+    color: $black !important;
 }
 
-.mail {
-    background: hsla(34, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
-    background: -moz-linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
-    background: -webkit-linear-gradient(45deg, hsla(34, 100%, 52%, 1) 100%, hsla(330, 100%, 52%, 1) 0%);
+.navbar-brand {
+    font-family: 'Gagalin';
+    font-size: 36px;
+}
+
+.navbar-brand a {
+    color: $black !important;
+    text-decoration: none;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    color: #010101 !important;
+}
+
+.text {
+    font-family: 'Anonymous';
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.photo-btn {
+    text-decoration: none;
+}
+
+.photo-image {
+    background-color: #fff;
+    height: 250px;
+    box-shadow: 12px 12px 2px 1px;
+    border: 1px solid $black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.polaroid {
+    background-color: $black;
+    height: 150px;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.polaroid:hover {
+    background-color: $bs-primary-rgb;
+}
+
+.wp-block-search__button {
+    background: hsla(330, 100%, 52%, 1);
+    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
     box-shadow: 12px 12px 2px 1px $black;
     border: 1px solid $black;
+    border-radius: 10px;
+    color: #fff;
 }
 
 @media screen and (min-width: 782px) {
