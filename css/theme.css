@@ -16091,6 +16091,26 @@ h3, .h3 {
   margin: 10px auto;
 }
 
+.footer {
+  background-color: #DFBABA;
+}
+
+.footer a {
+  font-family: "Gagalin";
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.footer p {
+  font-family: "Anonymous";
+}
+
+.hand {
+  text-align: center;
+  font-family: "Anton";
+  font-size: 1.8em;
+}
+
 .polaroid:hover {
   background-color: #DFBABA;
 }
@@ -16103,6 +16123,26 @@ h3, .h3 {
   border: 1px solid #010101;
   border-radius: 10px;
   color: #fff;
+}
+
+.readMore {
+  display: none;
+}
+
+@media screen and (max-width: 781px) {
+  .text {
+    overflow: hidden;
+    display: -webkit-box;
+    margin-bottom: 0;
+    -webkit-box-orient: vertical;
+    /* truncate to 7 lines */
+    -webkit-line-clamp: 7;
+  }
+
+  .readMore {
+    display: block;
+    font-family: "Anonymous";
+  }
 }
 
 /*# sourceMappingURL=theme.css.map */
