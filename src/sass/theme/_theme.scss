@@ -187,10 +187,26 @@ h3 {
     border: 1px solid $black;
 }
 
+.readMore {
+    display: none;
+}
+
 @media screen and (min-width: 782px) {
       
 }
 
 @media screen and (max-width: 781px) {
-       
+    .text {
+        overflow: hidden;
+        display: -webkit-box;
+        margin-bottom: 0;
+        -webkit-box-orient: vertical;
+        /* truncate to 7 lines */
+        -webkit-line-clamp: 7;
+    }
+
+    .readMore {
+        display: block;
+        font-family: 'Anonymous';
+    }
 }
