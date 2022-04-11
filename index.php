@@ -47,7 +47,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 		</div>
 
 		<div class="row justify-content-center my-5">
-			<div class="col-xs-12 col-sm-7 col-lg-3">
+			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
 				<a role="button" class="photo-btn" href="/adoption">
 					<div class="photo-image">
 						<div class="polaroid">
@@ -61,7 +61,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					</div>
 				</a>
 			</div>
-			<div class="col-xs-12 col-sm-7 col-lg-3">
+			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
 				<a role="button" class="photo-btn" href="/foster">
 					<div class="photo-image">
 						<div class="polaroid">
@@ -75,7 +75,7 @@ Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, w
 					</div>
 				</a>
 			</div>
-			<div class="col-xs-12 col-sm-7 col-lg-3">
+			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
 				<a role="button" class="photo-btn" href="/volunteer">
 					<div class="photo-image">
 						<div class="polaroid">
