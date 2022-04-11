@@ -15952,14 +15952,15 @@ a {
   color: #010101;
 }
 
-.wp-block-search__button {
-  background: #ff0a85;
-  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
-  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
-  box-shadow: 12px 12px 2px 1px #010101;
-  border: 1px solid #010101;
-  border-radius: 10px;
-  color: #fff;
+.banner {
+  font-family: "Gagalin";
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.buttonImage {
+  height: 200px;
 }
 
 .btn-secondary {
@@ -15968,6 +15969,36 @@ a {
   background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
+}
+
+.btn-outline-primary, .wpcf7 input[type=submit] {
+  background: #ff0a85;
+  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  box-shadow: 12px 12px 2px 1px #010101;
+  border: 1px solid #010101;
+  color: #fff;
+  width: 90%;
+}
+
+.footer {
+  background-color: #DFBABA;
+}
+
+.footer a {
+  font-family: "Gagalin";
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.footer p {
+  font-family: "Anonymous";
+}
+
+.hand {
+  text-align: center;
+  font-family: "Anton";
+  font-size: 1.8em;
 }
 
 h1, .h1, h2, .h2, h4, .h4, h5, .h5, h6, .h6 {
@@ -15981,14 +16012,37 @@ h3, .h3 {
   color: #fff;
 }
 
-.btn-outline-primary, .wpcf7 input[type=submit] {
+.logo-holder {
+  text-align: center;
+  background-color: #ebded4;
+  margin: 0 auto;
+}
+
+.mail {
+  background: #ff950a;
+  background: linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  background: -webkit-linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  box-shadow: 12px 12px 2px 1px #010101;
+  border: 1px solid #010101;
+}
+
+.mailing {
   background: #ff0a85;
   background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  height: 90px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
   color: #fff;
-  width: 90%;
+  font-family: "Anton";
+}
+
+.mailing p {
+  font-size: 34px;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -16009,28 +16063,19 @@ h3, .h3 {
   color: #010101 !important;
 }
 
-.logo-holder {
-  text-align: center;
-  background-color: #ebded4;
-  margin: 0 auto;
-}
-
-.banner {
-  font-family: "Gagalin";
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 10px;
-}
-
 .text {
   font-family: "Anonymous";
   text-align: center;
   margin-bottom: 50px;
 }
 
+.photo-btn {
+  text-decoration: none;
+}
+
 .photo-image {
   background-color: #fff;
-  height: 230px;
+  height: 250px;
   box-shadow: 12px 12px 2px 1px;
   border: 1px solid #010101;
   display: flex;
@@ -16066,35 +16111,18 @@ h3, .h3 {
   font-size: 1.8em;
 }
 
-.mailing {
+.polaroid:hover {
+  background-color: #DFBABA;
+}
+
+.wp-block-search__button {
   background: #ff0a85;
   background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
-  height: 90px;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: baseline;
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
+  border-radius: 10px;
   color: #fff;
-  font-family: "Anton";
-}
-
-.mailing p {
-  font-size: 34px;
-}
-
-.buttonImage {
-  height: 200px;
-}
-
-.mail {
-  background: #ff950a;
-  background: linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
-  background: -webkit-linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
-  box-shadow: 12px 12px 2px 1px #010101;
-  border: 1px solid #010101;
 }
 
 .readMore {
