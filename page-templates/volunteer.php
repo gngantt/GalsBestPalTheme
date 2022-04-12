@@ -27,42 +27,48 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
         </div>
     </div>    
-    <div class="row justify-content-center">
-        <h2>Will your employer match your donation?</h2>
-    </div>
     <div class="row justify-content-center align-items-center">
         <div class="col-sm-12 col-md-8">
-            <h3>Double the donation!</h3>
+            
         </div>
     </div>
     <div class="row">
         <div class="col">
             <h2>About the Program</h2>
+            <h3>Our volunteer program</h3>
         </div>
         <div class="col">
         <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                 alt="Tennis ball button"
-                height="250"
-                width="250"/>
+                height="80"
+                width="80"/>
         </div>
     </div>
     <div class="row">
         <div class="col">
-        <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
-                alt="amazon logo"
-                height="100"
-                width="100"/>
+            <h2>Volunteer Application</h2>
+            <h3>Join the mission</h3>
         </div>
         <div class="col">
-        <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                 alt="amazon logo"
-                height="100"
-                width="100"/>
+                height="80"
+                width="80"/>
         </div>
     </div>
+    <div class="row justify-content-center">
+			<div class="col-9">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/lineofdogs.svg" 
+                alt="line of dogs running up to a man"
+                height="300"
+                width="300"/>
+				<h2>We are an all volunteer run Massachusetts 501 C 3 Nonprofit Org!</h2>
+			</div>
+		</div>
+
 </div>
 
 <?php
