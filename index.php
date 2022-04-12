@@ -46,69 +46,74 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div>
 		</div>
 
-		<div class="row justify-content-center my-5">
-			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
-				<a role="button" class="photo-btn" href="/adoption">
-					<div class="photo-image">
-						<div class="polaroid">
-							<img class="img-fluid" 
-								src="<?php echo get_template_directory_uri(); ?>/images/adoptdog.svg" 
-								alt="Silhouette of a dog looking upwards"
-								height="150"
-								width="150"/>
-						</div>
-						<p class="hand">Adopt</p>
+		<div class="tab">
+			<div class="sec1 order-md-2">
+				<div class="row justify-content-center my-5">
+					<div class="col-xs-6 col-sm-5 col-md-8 col-lg-3 my-3 p-5">
+						<a role="button" class="photo-btn" href="/adoption">
+							<div class="photo-image">
+								<div class="polaroid">
+									<img class="img-fluid" 
+										src="<?php echo get_template_directory_uri(); ?>/images/adoptdog.svg" 
+										alt="Silhouette of a dog looking upwards"
+										height="150"
+										width="150"
+									/>
+								</div>
+								<p class="hand">Adopt</p>
+							</div>
+						</a>
 					</div>
-				</a>
+					<div class="col-xs-6 col-sm-5 col-md-8 col-lg-3 my-3 p-5">
+						<a role="button" class="photo-btn" href="/foster">
+							<div class="photo-image">
+								<div class="polaroid">
+									<img class="img-fluid" 
+										src="<?php echo get_template_directory_uri(); ?>/images/fosterdog.svg" 
+										alt="Silhouette of a dog standing to the right"
+										height="150"
+										width="150"/>
+								</div>
+								<p class="hand">Foster</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-xs-6 col-sm-5 col-md-8 col-lg-3 my-3 p-5">
+						<a role="button" class="photo-btn" href="/volunteer">
+							<div class="photo-image">
+								<div class="polaroid">
+									<img class="img-fluid" 
+										src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
+										alt="Silhouette of a dog running"
+										height="150"
+										width="150"/>
+								</div>
+								<p class="hand">Volunteer</p>
+							</div>
+						</a>
+					</div>
+				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
-				<a role="button" class="photo-btn" href="/foster">
-					<div class="photo-image">
-						<div class="polaroid">
-							<img class="img-fluid" 
-								src="<?php echo get_template_directory_uri(); ?>/images/fosterdog.svg" 
-								alt="Silhouette of a dog standing to the right"
-								height="150"
-								width="150"/>
-						</div>
-						<p class="hand">Foster</p>
+			<div class="sec2 order-md-1">
+				<div class="row banner">
+					<h2>Our Mission</h2>
+				</div>
+
+				<div class="row justify-content-center">
+					<div class="col-9">
+						<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs.</p>
 					</div>
-				</a>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-lg-3 my-3 p-5">
-				<a role="button" class="photo-btn" href="/volunteer">
-					<div class="photo-image">
-						<div class="polaroid">
-							<img class="img-fluid" 
-								src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
-								alt="Silhouette of a dog running"
-								height="150"
-								width="150"/>
-						</div>
-						<p class="hand">Volunteer</p>
-					</div>
-				</a>
+				</div>
 			</div>
 		</div>
-
-		<div class="row banner">
-			<h2>Our Mission</h2>
-		</div>
-
-		<div class="row justify-content-center">
-			<div class="col-9">
-				<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs.</p>
-			</div>
-		</div>
-
 		<div class="row justify-content-center align-baseline py-5">
 			<div class="col-xs-3 col-sm-3 col-lg-3">
 				<img class="img-fluid" 
 					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
 					alt="Silhouette of a dog barking"/>
 			</div>
-			<div class="col-xs-12 col-sm-10 col-lg-6 mailing">
-				<i class="fa fa-envelope-o fa-4x"></i>
+			<div class="col-xs-12 col-sm-10 col-md-5 col-lg-6 mailing">
+				<i class="fa fa-envelope-o"></i>
 				<p>Join our mailing list!</p>
 			</div>
 		</div>
