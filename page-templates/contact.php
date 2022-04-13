@@ -29,6 +29,16 @@ $container = get_theme_mod( 'understrap_container_type' );
     <div class="row justify-content-center">
     </div>
     <div class="row justify-content-center">
+        <h2>Contact us</h2>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-12 col-lg-8">
+            <div class="mail py-5">
+                <?php echo do_shortcode('[contact-form-7 id="67" title="Contact form 1"]'); ?>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center mt-4">
         <h2>Regarding Rehoming</h2>
     </div>
     <div class="row justify-content-center align-items-center">
@@ -60,16 +70,6 @@ $container = get_theme_mod( 'understrap_container_type' );
                 alt="Gals Best Pal logo"
                 height="100"
                 width="100"/>
-        </div>
-    </div>
-    <div class="row justify-content-center">
-        <h2>Contact us</h2>
-    </div>
-    <div class="row justify-content-center">
-        <div class="col-md-12 col-lg-8">
-            <div class="mail py-5">
-                <?php echo do_shortcode('[contact-form-7 id="67" title="Contact form 1"]'); ?>
-            </div>
         </div>
     </div>
 </div>
