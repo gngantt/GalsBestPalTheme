@@ -118,18 +118,10 @@ h3 {
     border: 1px solid $black;
 }
 
-/*pink and yellow gradient for mailing
-background: rgb(255,11,132);
-background: -moz-linear-gradient(45deg, rgba(255,11,132,1) 32%, rgba(254,222,89,1) 77%);
-background: -webkit-linear-gradient(45deg, rgba(255,11,132,1) 32%, rgba(254,222,89,1) 77%);
-background: linear-gradient(45deg, rgba(255,11,132,1) 32%, rgba(254,222,89,1) 77%);
-*/
+
 
 .mailing {
-    background: hsla(330, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: #ff0b84;
     height: 90px;
     margin: 0 auto;
     display: flex;
@@ -217,10 +209,7 @@ background: linear-gradient(45deg, rgba(255,11,132,1) 32%, rgba(254,222,89,1) 77
     }
 
     .mailing {
-        background: hsla(330, 100%, 52%, 1);
-        background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+        background: #ff0b84;
         height: 50px;
         margin: 0 auto;
         display: flex;
@@ -257,10 +246,7 @@ background: linear-gradient(45deg, rgba(255,11,132,1) 32%, rgba(254,222,89,1) 77
     }
 
     .mailing {
-        background: hsla(330, 100%, 52%, 1);
-        background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+        background: #ff0b84;
         height: 50px;
         margin: 0 auto;
         display: flex;
