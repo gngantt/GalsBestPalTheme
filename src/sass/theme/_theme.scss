@@ -13,6 +13,11 @@ $bs-primary-rgb: $primary;
 }
 
 @font-face {
+    font-family: 'Lovelo';
+    src: url('../fonts/LoveloBlack.otf') format('truetype');
+}
+
+@font-face {
     font-family: 'Anonymous';
     src: url('../fonts/AnonymousPro-Regular.ttf');
 }
@@ -118,11 +123,10 @@ h3 {
     border: 1px solid $black;
 }
 
+
+
 .mailing {
-    background: hsla(330, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: #ff0b84;
     height: 90px;
     margin: 0 auto;
     display: flex;
@@ -131,7 +135,7 @@ h3 {
     box-shadow: 12px 12px 2px 1px $black;
     border: 1px solid $black;
     color:#fff;
-    font-family: 'Anton';
+    font-family: 'Lovelo';
     padding-top: 15px;
 }
 
@@ -210,10 +214,7 @@ h3 {
     }
 
     .mailing {
-        background: hsla(330, 100%, 52%, 1);
-        background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+        background: #ff0b84;
         height: 50px;
         margin: 0 auto;
         display: flex;
@@ -222,7 +223,7 @@ h3 {
         box-shadow: 12px 12px 2px 1px $black;
         border: 1px solid $black;
         color:#fff;
-        font-family: 'Anton';
+        font-family: 'Lovelo';
         padding-top: 5px;
     }
 
@@ -250,10 +251,7 @@ h3 {
     }
 
     .mailing {
-        background: hsla(330, 100%, 52%, 1);
-        background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-        background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+        background: #ff0b84;
         height: 50px;
         margin: 0 auto;
         display: flex;
@@ -262,7 +260,7 @@ h3 {
         box-shadow: 12px 12px 2px 1px $black;
         border: 1px solid $black;
         color:#fff;
-        font-family: 'Anton';
+        font-family: 'Lovelo';
         padding-top: 5px;
     }
 
