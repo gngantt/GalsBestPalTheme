@@ -17,6 +17,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Adoption</h1>
+    <hr/>
     <h2>Our Adoption Process</h2>
 
     <div class="row justify-content-center">
