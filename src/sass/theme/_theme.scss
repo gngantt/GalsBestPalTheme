@@ -140,7 +140,6 @@ h3 {
     border: 1px solid $black;
     color:#fff;
     font-family: 'Lovelo';
-    padding-top: 15px;
 }
 
 .mailing p {
@@ -213,6 +212,11 @@ h3 {
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .envelope{
+        width: 50px;
+        height: 50px;
+    }
     .fa-envelope-o {
         font-size: 2em;
     }
@@ -228,11 +232,10 @@ h3 {
         border: 1px solid $black;
         color:#fff;
         font-family: 'Lovelo';
-        padding-top: 5px;
     }
 
     .mailing p {
-        font-size: 20px;
+        font-size: 18px;
     }
       .tab {
           display: flex;   
@@ -250,6 +253,11 @@ h3 {
 }
 
 @media screen and (max-width: 767px) {
+
+    .envelope{
+        width: 50px;
+        height: 50px;
+    }
     .fa-envelope-o {
         font-size: 2em;
     }
@@ -265,7 +273,6 @@ h3 {
         border: 1px solid $black;
         color:#fff;
         font-family: 'Lovelo';
-        padding-top: 5px;
     }
 
     .mailing p {
