@@ -22,10 +22,6 @@ $bs-primary-rgb: $primary;
     src: url('../fonts/AnonymousPro-Regular.ttf');
 }
 
-@font-face {
-    font-family: 'Anton';
-    src: url('../fonts/Anton-Regular.ttf');
-}
 
 @font-face {
     font-family: 'HattonLight';
@@ -77,6 +73,10 @@ a {
     font-size: 3em;
 }
 
+.filter-white{
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(16deg) brightness(100%) contrast(104%);
+}
+
 .footer {
     background-color: #DFBABA;
 }
@@ -93,7 +93,7 @@ a {
 
 .hand {
     text-align: center;
-    font-family: 'Anton';
+    font-family: 'lovelo';
     font-size: 1.8em;
 }
 
@@ -224,7 +224,7 @@ h3 {
         border: 1px solid $black;
         color:#fff;
         font-family: 'Lovelo';
-        padding-top: 5px;
+        padding-bottom: 5px;
     }
 
     .mailing p {
