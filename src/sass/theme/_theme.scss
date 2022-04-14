@@ -81,6 +81,14 @@ a {
     background-color: #DFBABA;
 }
 
+#wrapper-footer{
+    border-top: 2px solid black;
+}
+
+#wrapper-navbar{
+    border-bottom: 2px solid black;
+}
+
 .footer a {
     font-family: 'Gagalin';
     text-decoration: none;
@@ -145,6 +153,10 @@ h3 {
 
 .navbar-dark .navbar-nav .nav-link {
     color: $black !important;
+}
+
+.navbar-dark{
+    border-bottom: 1px solid black;
 }
 
 .navbar-brand {
