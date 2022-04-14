@@ -35,14 +35,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 		</div>
 
 		<div class="row banner">
-			<h1>Our Story</h1>
+			<h1>Our Mission</h1>
 		</div>
 
 		<div class="row justify-content-center">
 			<div class="col-9">
-				<p class="text" id="text">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in rescue and started a blog about her fosters and dogs she had come in contact with. Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them and together have placed & fostered over 300 dogs! The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating Gals Best Pal would be the perfect step to assist more of these dogs at a pace we can keep up with.
+				<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs.
 				</p>
-				<button class="btn readMore">Read more</button>
 			</div>
 		</div>
 
@@ -96,12 +95,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div>
 			<div class="sec2 order-md-1">
 				<div class="row banner">
-					<h2>Our Mission</h2>
+					<h2>Our Story</h2>
 				</div>
 
 				<div class="row justify-content-center">
 					<div class="col-9">
-						<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs.</p>
+						<p class="text text-1">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in rescue and started a blog about her fosters and dogs she had come in contact with. Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them and together have placed & fostered over 300 dogs! The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating Gals Best Pal would be the perfect step to assist more of these dogs at a pace we can keep up with.</p>
+						<button class="btn readMore">Read more</button>
 					</div>
 				</div>
 			</div>

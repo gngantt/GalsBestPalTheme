@@ -15939,10 +15939,6 @@ figure.woocommerce-product-gallery__wrapper {
   src: url("../fonts/AnonymousPro-Regular.ttf");
 }
 @font-face {
-  font-family: "Anton";
-  src: url("../fonts/Anton-Regular.ttf");
-}
-@font-face {
   font-family: "HattonLight";
   src: url("../fonts/PP Hatton Ultralight 200.otf");
 }
@@ -15989,8 +15985,20 @@ a {
   font-size: 3em;
 }
 
+.filter-white {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(16deg) brightness(100%) contrast(104%);
+}
+
 .footer {
   background-color: #DFBABA;
+}
+
+#wrapper-footer {
+  border-top: 2px solid black;
+}
+
+#wrapper-navbar {
+  border-bottom: 2px solid black;
 }
 
 .footer a {
@@ -16005,13 +16013,22 @@ a {
 
 .hand {
   text-align: center;
-  font-family: "Anton";
+  font-family: "lovelo";
   font-size: 1.8em;
 }
 
 h1, .h1, h2, .h2, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Gagalin";
   text-align: center;
+}
+
+hr {
+  background-color: black;
+  width: 50%;
+  margin: auto;
+  height: 30px;
+  border: 3px solid black;
+  opacity: 0.75;
 }
 
 h3, .h3 {
@@ -16054,6 +16071,10 @@ h3, .h3 {
 
 .navbar-dark .navbar-nav .nav-link {
   color: #010101 !important;
+}
+
+.navbar-dark {
+  border-bottom: 1px solid black;
 }
 
 .navbar-brand {
@@ -16132,7 +16153,7 @@ h3, .h3 {
     border: 1px solid #010101;
     color: #fff;
     font-family: "Lovelo";
-    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .mailing p {
@@ -16176,7 +16197,7 @@ h3, .h3 {
     font-size: 20px;
   }
 
-  .text {
+  .text-1 {
     overflow: hidden;
     display: -webkit-box;
     margin-bottom: 0;
