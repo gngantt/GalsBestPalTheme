@@ -114,7 +114,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div>
 			<div class="col-xs-12 col-sm-10 col-md-5 col-lg-6 mailing">
 				<p>			<img class="filter-white envelope"
-										src="<?php echo get_template_directory_uri(); ?>/images/envelope.svg" 
+										src="<?php echo get_template_directory_uri(); ?>/images/mailinglist.svg" 
 										alt="envelope with heart on it"
 										height="90"
 										width="90"/>
