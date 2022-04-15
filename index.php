@@ -102,7 +102,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="col-9">
 						<p class="text text-1">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in rescue and started a blog about her fosters and dogs she had come in contact with. Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them and together have placed & fostered over 300 dogs! The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating Gals Best Pal would be the perfect step to assist more of these dogs at a pace we can keep up with.</p>
 						<button class="btn readMore">Read more</button>
-						<p class=" text signature">Love,<br/> Marissa, Molleen, and Felicia</p>
+						<p class=" text signature">Love,<br/> Felicia, Molleen, and Marissa</p>
 					</div>
 				</div>
 			</div>
