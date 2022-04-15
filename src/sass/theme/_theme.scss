@@ -38,6 +38,7 @@ a {
     color: $black;
 }
 
+
 .banner {
     font-family: 'Gagalin';
     text-align: center;
@@ -266,6 +267,11 @@ h3 {
 }
 
 @media screen and (max-width: 767px) {
+
+    .arrow{
+        transform: rotate(90deg);
+    }
+    
     .fa-envelope-o {
         font-size: 2em;
     }
