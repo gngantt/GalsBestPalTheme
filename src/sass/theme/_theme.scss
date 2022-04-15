@@ -267,11 +267,10 @@ h3 {
 }
 
 @media screen and (max-width: 767px) {
-
     .arrow{
-        transform: rotate(90deg);
+        display: none;
     }
-    
+
     .fa-envelope-o {
         font-size: 2em;
     }
