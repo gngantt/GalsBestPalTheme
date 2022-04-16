@@ -37,7 +37,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="d-sm-none col-sm-3 col-md-2">
+        <div class="col-sm-3 col-md-2 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
@@ -61,7 +61,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="d-sm-none col-sm-3 col-md-2">
+        <div class="col-sm-3 col-md-2 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
