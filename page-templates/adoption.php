@@ -16,6 +16,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
+    <button class="sg-popup-id-45">Adopt!!</button>
+
     <h1>Adoption</h1>
     <hr/>
     <h2>Our Adoption Process</h2>
@@ -64,6 +66,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row justify-content-center">
         <div class="col-sm-12 col-md-8">
+            
             <h3>Fill Out an Adoption Application</h3>
         </div>
     </div>
