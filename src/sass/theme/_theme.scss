@@ -46,10 +46,6 @@ a {
     margin-bottom: 10px;
 }
 
-.buttonImage {
-    height: 200px;
-}
-
 .btn-secondary {
     background: hsla(330, 100%, 52%, 1);
     background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
@@ -267,8 +263,9 @@ h3 {
 }
 
 @media screen and (max-width: 767px) {
-    .arrow{
-        display: none !important;
+
+    .arrow {
+        display: none;
     }
 
     .fa-envelope-o {
