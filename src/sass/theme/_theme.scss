@@ -13,6 +13,11 @@ $bs-primary-rgb: $primary;
 }
 
 @font-face {
+    font-family: 'Buffalo';
+    src: url('../fonts/Buffalo.otf') format('truetype');
+}
+
+@font-face {
     font-family: 'Lovelo';
     src: url('../fonts/LoveloBlack.otf') format('truetype');
 }
@@ -228,6 +233,11 @@ h3 {
     display: none;
 }
 
+.signature{
+    font-family: 'Buffalo';
+    font-size: 40px;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
     .fa-envelope-o {
         font-size: 2em;
@@ -245,6 +255,9 @@ h3 {
         color:#fff;
         font-family: 'Lovelo';
         padding-bottom: 5px;
+    }
+    .signature{
+        font-size: 30px;
     }
 
     .mailing p {
@@ -300,5 +313,9 @@ h3 {
     .readMore {
         display: block;
         font-family: 'Anonymous';
+    }
+
+    .signature{
+        font-size: 30px;
     }
 }
