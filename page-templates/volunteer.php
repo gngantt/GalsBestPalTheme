@@ -25,7 +25,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 
             </p>
         </div>
-    </div>    
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-3 col-md-2 ">
+            <img class="img-fluid pb-5" 
+                src="<?php echo get_template_directory_uri(); ?>/images/peekaboodog.svg" 
+                alt="Gals Best Pal logo"
+                height="150"
+                width="150"/>
+    </div>       
     <div class="row justify-content-center">
     </div>
     <div class="row justify-content-center">
