@@ -268,7 +268,7 @@ h3 {
 
 @media screen and (max-width: 767px) {
     .arrow{
-        display: none;
+        display: none !important;
     }
 
     .fa-envelope-o {
