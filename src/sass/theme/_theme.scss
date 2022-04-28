@@ -13,6 +13,11 @@ $bs-primary-rgb: $primary;
 }
 
 @font-face {
+    font-family: 'Buffalo';
+    src: url('../fonts/Buffalo.otf') format('truetype');
+}
+
+@font-face {
     font-family: 'Lovelo';
     src: url('../fonts/LoveloBlack.otf') format('truetype');
 }
@@ -22,10 +27,6 @@ $bs-primary-rgb: $primary;
     src: url('../fonts/AnonymousPro-Regular.ttf');
 }
 
-@font-face {
-    font-family: 'Anton';
-    src: url('../fonts/Anton-Regular.ttf');
-}
 
 @font-face {
     font-family: 'HattonLight';
@@ -42,15 +43,12 @@ a {
     color: $black;
 }
 
+
 .banner {
     font-family: 'Gagalin';
     text-align: center;
     margin-top: 40px;
     margin-bottom: 10px;
-}
-
-.buttonImage {
-    height: 200px;
 }
 
 .btn-secondary {
@@ -63,10 +61,7 @@ a {
 }
 
 .btn-outline-primary {
-    background: hsla(330, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: #FF0B84;
     box-shadow: 12px 12px 2px 1px $black;
     border: 1px solid $black;
     color: #fff;
@@ -77,8 +72,20 @@ a {
     font-size: 3em;
 }
 
+.filter-white{
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(16deg) brightness(100%) contrast(104%);
+}
+
 .footer {
     background-color: #DFBABA;
+}
+
+#wrapper-footer{
+    border-top: 2px solid black;
+}
+
+#wrapper-navbar{
+    border-bottom: 2px solid black;
 }
 
 .footer a {
@@ -93,13 +100,21 @@ a {
 
 .hand {
     text-align: center;
-    font-family: 'Anton';
+    font-family: 'lovelo';
     font-size: 1.8em;
 }
 
 h1, h2, h4, h5, h6 {
     font-family: 'Gagalin';
     text-align: center;
+}
+hr{
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    height: 30px;
+    border: 3px solid black;
+    opacity: .75;
 }
 
 h3 {
@@ -144,6 +159,10 @@ h3 {
 
 .navbar-dark .navbar-nav .nav-link {
     color: $black !important;
+}
+
+.navbar-dark{
+    border-bottom: 1px solid black;
 }
 
 .navbar-brand {
@@ -210,6 +229,11 @@ h3 {
 .envelope{
     fill:#fff;
 }
+.signature{
+    font-family: 'Buffalo';
+    font-size: 40px;
+
+}
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
 
@@ -232,6 +256,12 @@ h3 {
         border: 1px solid $black;
         color:#fff;
         font-family: 'Lovelo';
+
+        padding-bottom: 5px;
+    }
+    .signature{
+        font-size: 30px;
+
     }
 
     .mailing p {
@@ -254,10 +284,17 @@ h3 {
 
 @media screen and (max-width: 767px) {
 
+
     .envelope{
         width: 50px;
         height: 50px;
     }
+
+    .arrow {
+        display: none;
+    }
+
+
     .fa-envelope-o {
         font-size: 2em;
     }
@@ -279,7 +316,7 @@ h3 {
         font-size: 20px;
     }
 
-    .text {
+    .text-1 {
         overflow: hidden;
         display: -webkit-box;
         margin-bottom: 0;
@@ -291,5 +328,9 @@ h3 {
     .readMore {
         display: block;
         font-family: 'Anonymous';
+    }
+
+    .signature{
+        font-size: 30px;
     }
 }

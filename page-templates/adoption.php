@@ -16,12 +16,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
+    <a role="button" class="sg-popup-id-45 btn" href="www.google.com">Adopt!!</a>
+
     <h1>Adoption</h1>
+    <hr/>
     <h2>Our Adoption Process</h2>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text py-5">Our goal at GBP is to make rescuing a dog stress free and interactive, while 
+            <p class="text py-3">Our goal at GBP is to make rescuing a dog stress free and interactive, while 
                 also setting our adopters up for success, by thoughtfully placing the dogs we 
                 are adopting out. During the application process, our goal is to communicate 
                 and educate each person we talk to, so that when you find your perfect match 
@@ -30,6 +33,13 @@ $container = get_theme_mod( 'understrap_container_type' );
                 throughout the lifetime of each GBP adoption.
             </p>
         </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-3 col-md-2 ">
+                <img class="img-fluid pb-5" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
+                    alt="Gals Best Pal logo"
+                    height="150"
+                    width="150"/>
     </div>    
     <div class="row justify-content-center">
     </div>
@@ -55,16 +65,19 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row justify-content-center">
         <div class="col-sm-12 col-md-8">
+            
             <h3>Fill Out an Adoption Application</h3>
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="cols-sm-3 col-md-2">
+        <a role="button" class="photo-btn sg-popup-id-45" href="#">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                 alt="Gals Best Pal logo"
                 height="100"
                 width="100"/>
+        </a>
         </div>
     </div>
     <div class="row justify-content-center">

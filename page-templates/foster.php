@@ -16,7 +16,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Foster Hero</h1>
-    <h2>Be a Dog Hero</h2>
+    <hr/>
+    <h2>Be a Dog's Hero</h2>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
@@ -27,7 +28,15 @@ $container = get_theme_mod( 'understrap_container_type' );
                 becoming a foster HERO!
             </p>
         </div>
-    </div>    
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-3 col-md-2 ">
+            <img class="img-fluid pb-5" 
+                src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
+                alt="Gals Best Pal logo"
+                height="150"
+                width="150"/>
+    </div>       
     <div class="row justify-content-center">
     </div>
     <div class="row justify-content-center">
