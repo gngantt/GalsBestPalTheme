@@ -13,6 +13,11 @@ $bs-primary-rgb: $primary;
 }
 
 @font-face {
+    font-family: 'Buffalo';
+    src: url('../fonts/Buffalo.otf') format('truetype');
+}
+
+@font-face {
     font-family: 'Lovelo';
     src: url('../fonts/LoveloBlack.otf') format('truetype');
 }
@@ -38,15 +43,12 @@ a {
     color: $black;
 }
 
+
 .banner {
     font-family: 'Gagalin';
     text-align: center;
     margin-top: 40px;
     margin-bottom: 10px;
-}
-
-.buttonImage {
-    height: 200px;
 }
 
 .btn-secondary {
@@ -59,10 +61,7 @@ a {
 }
 
 .btn-outline-primary {
-    background: hsla(330, 100%, 52%, 1);
-    background: linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -moz-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
-    background: -webkit-linear-gradient(45deg, hsla(330, 100%, 52%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    background: #FF0B84;
     box-shadow: 12px 12px 2px 1px $black;
     border: 1px solid $black;
     color: #fff;
@@ -228,6 +227,11 @@ h3 {
     display: none;
 }
 
+.signature{
+    font-family: 'Buffalo';
+    font-size: 40px;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
     .fa-envelope-o {
         font-size: 2em;
@@ -245,6 +249,9 @@ h3 {
         color:#fff;
         font-family: 'Lovelo';
         padding-bottom: 5px;
+    }
+    .signature{
+        font-size: 30px;
     }
 
     .mailing p {
@@ -266,6 +273,11 @@ h3 {
 }
 
 @media screen and (max-width: 767px) {
+
+    .arrow {
+        display: none;
+    }
+
     .fa-envelope-o {
         font-size: 2em;
     }
@@ -300,5 +312,9 @@ h3 {
     .readMore {
         display: block;
         font-family: 'Anonymous';
+    }
+
+    .signature{
+        font-size: 30px;
     }
 }
