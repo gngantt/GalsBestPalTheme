@@ -93,19 +93,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 					</div>
 				</div>
 			</div>
-			<div class="sec2 order-md-1">
-				<div class="row banner">
-					<h2>Our Story</h2>
-				</div>
-
-				<div class="row justify-content-center">
-					<div class="col-9">
-						<p class="text text-1">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in rescue and started a blog about her fosters and dogs she had come in contact with. Being a young newbie at fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them and together have placed & fostered over 300 dogs! The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating Gals Best Pal would be the perfect step to assist more of these dogs at a pace we can keep up with.</p>
-						<button class="btn readMore">Read more</button>
-					</div>
-				</div>
-			</div>
-		</div>
 		<div class="row justify-content-center align-baseline py-5">
 			<div class="col-xs-3 col-sm-3 col-lg-3">
 				<img class="img-fluid" 
@@ -113,8 +100,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 					alt="Silhouette of a dog barking"/>
 			</div>
 			<div class="col-xs-12 col-sm-10 col-md-5 col-lg-6 mailing">
-				<i class="fa fa-envelope-o"></i>
-				<p>Join our mailing list!</p>
+				<p>			<img class="filter-white envelope"
+										src="<?php echo get_template_directory_uri(); ?>/images/mailinglist.svg" 
+										alt="envelope with heart on it"
+										height="90"
+										width="90"/>
+					
+				Join our mailing list!</p>
 			</div>
 		</div>
 	</div>

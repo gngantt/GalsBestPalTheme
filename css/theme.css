@@ -15959,22 +15959,18 @@ a {
   margin-bottom: 10px;
 }
 
-.buttonImage {
-  height: 200px;
-}
-
 .btn-secondary {
-  background: hsl(330deg, 100%, 52%);
-  background: linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
-  background: -webkit-linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
+  background: #ff0a85;
+  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
 }
 
 .btn-outline-primary, .wpcf7 input[type=submit] {
-  background: hsl(330deg, 100%, 52%);
-  background: linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
-  background: -webkit-linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
+  background: #ff0a85;
+  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
   color: #fff;
@@ -16044,9 +16040,9 @@ h3, .h3 {
 }
 
 .mail {
-  background: hsl(34deg, 100%, 52%);
-  background: linear-gradient(45deg, hsl(34deg, 100%, 52%) 100%, hsl(330deg, 100%, 52%) 0%);
-  background: -webkit-linear-gradient(45deg, hsl(34deg, 100%, 52%) 100%, hsl(330deg, 100%, 52%) 0%);
+  background: #ff950a;
+  background: linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  background: -webkit-linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
 }
@@ -16124,9 +16120,9 @@ h3, .h3 {
 }
 
 .wp-block-search__button {
-  background: hsl(330deg, 100%, 52%);
-  background: linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
-  background: -webkit-linear-gradient(45deg, hsl(330deg, 100%, 52%) 0%, hsl(34deg, 100%, 52%) 100%);
+  background: #ff0a85;
+  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
   border-radius: 10px;
@@ -16175,6 +16171,10 @@ h3, .h3 {
   }
 }
 @media screen and (max-width: 767px) {
+  .arrow {
+    display: none;
+  }
+
   .fa-envelope-o {
     font-size: 2em;
   }
