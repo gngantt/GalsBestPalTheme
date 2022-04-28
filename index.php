@@ -81,11 +81,11 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<a role="button" class="photo-btn" href="/volunteer">
 							<div class="photo-image">
 								<div class="polaroid">
-									<img class="img-fluid" 
+									<img class="img-fluid volunteersvg" 
 										src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
 										alt="Silhouette of a dog running"
 										height="150"
-										width="150"/>
+								width="150"/>
 								</div>
 								<p class="hand">Volunteer</p>
 							</div>
