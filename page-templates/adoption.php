@@ -52,6 +52,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
+    <div class="col-sm-3 col-md-2 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="100"
+                width="100"/>
+        </div>
         <div class="col-sm-3 col-md-2">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
@@ -65,11 +72,17 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row justify-content-center">
         <div class="col-sm-12 col-md-8">
-            
             <h3>Fill Out an Adoption Application</h3>
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
+    <div class="col-sm-3 col-md-2 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="100"
+                width="100"/>
+        </div>
         <div class="cols-sm-3 col-md-2">
         <a role="button" class="photo-btn sg-popup-id-45" href="#">
             <img class="img-fluid" 
@@ -89,6 +102,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
+        <div class="col-sm-3 col-md-2 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="100"
+                width="100"/>
+        </div>
         <div class="col-sm-3 col-md-2">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
