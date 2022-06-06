@@ -81,11 +81,13 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="cols-sm-3 col-md-2">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/envelope.svg" 
-                alt="Gals Best Pal logo"
-                height="200"
-                width="200"/>
+            <a href="https://petstablished.com/petlover/general_form/41738" target="_blank">
+                <img class="img-fluid" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/envelope.svg" 
+                    alt="Gals Best Pal logo"
+                    height="200"
+                    width="200"/>
+            </a>
         </div>
     </div>
 </div>
