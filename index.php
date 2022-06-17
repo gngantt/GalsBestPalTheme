@@ -85,7 +85,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 										src="<?php echo get_template_directory_uri(); ?>/images/volunteerdog.svg" 
 										alt="Silhouette of a dog running"
 										height="150"
-								width="150"/>
+										width="150"/>
 								</div>
 								<p class="hand">Volunteer</p>
 							</div>
@@ -93,9 +93,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 					</div>
 				</div>
 			</div>
-		<div class="row justify-content-center align-baseline py-5">
+		<div class="row justify-content-center align-baseline py-5 sec2">
 			<div class="col-xs-3 col-sm-3 col-lg-3">
-				<img class="img-fluid" 
+				<img class="img-fluid pupPhoto" 
 					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
 					alt="Silhouette of a dog barking"/>
 			</div>

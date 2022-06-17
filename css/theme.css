@@ -15931,6 +15931,10 @@ figure.woocommerce-product-gallery__wrapper {
   src: url("../fonts/Gagalin-Regular.ttf") format("truetype");
 }
 @font-face {
+  font-family: "Buffalo";
+  src: url("../fonts/Buffalo.otf") format("truetype");
+}
+@font-face {
   font-family: "Lovelo";
   src: url("../fonts/LoveloBlack.otf") format("truetype");
 }
@@ -15968,9 +15972,7 @@ a {
 }
 
 .btn-outline-primary, .wpcf7 input[type=submit] {
-  background: #ff0a85;
-  background: linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
-  background: -webkit-linear-gradient(45deg, #ff0a85 0%, #ff950a 100%);
+  background: #FF0B84;
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
   color: #fff;
@@ -15989,8 +15991,13 @@ a {
   background-color: #DFBABA;
 }
 
+.wrapper {
+  padding: 1.5rem 0 0 0;
+}
+
 #wrapper-footer {
   border-top: 2px solid black;
+  bottom: 0;
 }
 
 #wrapper-navbar {
@@ -16058,7 +16065,6 @@ h3, .h3 {
   border: 1px solid #010101;
   color: #fff;
   font-family: "Lovelo";
-  padding-top: 15px;
 }
 
 .mailing p {
@@ -16133,7 +16139,25 @@ h3, .h3 {
   display: none;
 }
 
+.volunteersvg {
+  margin-top: 30px;
+}
+
+.envelope {
+  fill: #fff;
+}
+
+.signature {
+  font-family: "Buffalo";
+  font-size: 40px;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
+  .envelope {
+    width: 50px;
+    height: 50px;
+  }
+
   .fa-envelope-o {
     font-size: 2em;
   }
@@ -16149,11 +16173,16 @@ h3, .h3 {
     border: 1px solid #010101;
     color: #fff;
     font-family: "Lovelo";
+    width: 100%;
     padding-bottom: 5px;
   }
 
+  .signature {
+    font-size: 30px;
+  }
+
   .mailing p {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .tab {
@@ -16166,11 +16195,15 @@ h3, .h3 {
   }
 
   .sec2 {
-    width: 450px;
-    margin-top: 100px;
+    margin: 450px 0;
   }
 }
 @media screen and (max-width: 767px) {
+  .envelope {
+    width: 50px;
+    height: 50px;
+  }
+
   .arrow {
     display: none;
   }
@@ -16190,7 +16223,6 @@ h3, .h3 {
     border: 1px solid #010101;
     color: #fff;
     font-family: "Lovelo";
-    padding-top: 5px;
   }
 
   .mailing p {
@@ -16209,6 +16241,10 @@ h3, .h3 {
   .readMore {
     display: block;
     font-family: "Anonymous";
+  }
+
+  .signature {
+    font-size: 30px;
   }
 }
 
