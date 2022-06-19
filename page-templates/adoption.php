@@ -16,8 +16,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
-    <a role="button" class="sg-popup-id-45 btn" href="www.google.com">Adopt!!</a>
-
     <h1>Adoption</h1>
     <hr/>
     <h2>Our Adoption Process</h2>
