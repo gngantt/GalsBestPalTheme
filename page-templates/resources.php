@@ -24,6 +24,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <div class="col-md-11 col-lg-9">
             <p class="text py-3">
                 <a href="https://www.akc.org/expert-advice/puppy-information/puppy-proofing-tips-for-your-home-and-yard">Puppy Proofing your Home and Yard</a></br>
+                <a href="https://animalfarmfoundation.org/wp-content/uploads/2017/09/all-dogs-are-individuals-infographic-breed-labels.pdf">The Mixed Breed Bias</a></br>
+                <a href="https://cvm.ncsu.edu/nc-state-college-of-veterinary-medicine-behaviorist-urges-awareness-to-protect-children-from-dog-bites/">How Not to Greet a Dog</a></br>
+                <a href="https://centerforshelterdogs.tufts.edu/wp-content/uploads/2016/03/IdentifyingFearfulSignalsPoster.pdf">Dog Body Language</a></br>
                 <a href="https://thebark.com/content/making-introductions-dog-dog">Introducing your New Dog to your Resident Dog</a></br>
                 <a href="https://youtu.be/BRlxhvQ8I9g">Introducing your New Dog to your Resident Cat</a>
             </p>
