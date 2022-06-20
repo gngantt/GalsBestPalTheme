@@ -55,6 +55,21 @@ $container = get_theme_mod( 'understrap_container_type' );
             </p>    
         </div>
     </div>
+    <div class="row justify-content-center">
+        <h3>Training Guides</h3>
+    </div>
+    <div class="row justify-content-center align-items-center">
+        <div class="col-sm-12 col-md-8">
+            <p class="text py-3">
+                <a href="https://www.humanesociety.org/resources/crate-training-101">Crate Training</a></br>
+                <a href="https://www.fearfreehappyhomes.com/how-to-house-train-your-puppy-the-fear-free-way/">Potty Training</a></br>
+                <a href="https://pawsintraining.com/dog-that-will-not-go-to-the-bathroom-in-front-of-you/">Additional Potty Training</a></br>
+                <a href="http://www.ispeakdog.org/dog-behaviors.html">Behavior Solutions</a></br>
+                <a href="muzzleupproject.com">Muzzle Up!</a></br>
+                <a href="https://paws training.com/why-dogs-need-toys/">Why Dogs Need Toys</a>
+            </p>    
+        </div>
+    </div>
     </div>
 </div>
 
