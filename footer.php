@@ -34,7 +34,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 							<i class="fa fa-facebook-square"></i>
 						</a>
 						<a href="#" class="footertext">Donate</a>
-						<p>Made with ❤ by Greenfield Development - Copyright &copy; <script>document.write(new Date().getFullYear())</script></p>
+						<p>Made with ❤ by <a class="greenfield" href="https://greenfield-org.github.io/">Greenfield Development</a> - Copyright &copy; <script>document.write(new Date().getFullYear())</script></p>
+
+						<!--<a href="#" class="footertext">Donate</a>-->
 
 					</div><!-- .site-info -->
 

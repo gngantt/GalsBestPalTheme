@@ -80,8 +80,13 @@ a {
     background-color: #DFBABA;
 }
 
+.wrapper {
+    padding: 1.5rem 0 0 0;
+}
+
 #wrapper-footer{
     border-top: 2px solid black;
+    bottom: 0;
 }
 
 #wrapper-navbar{
@@ -259,7 +264,7 @@ h3 {
         border: 1px solid $black;
         color:#fff;
         font-family: 'Lovelo';
-
+        width: 100%;
         padding-bottom: 5px;
     }
     .signature{
@@ -270,19 +275,19 @@ h3 {
     .mailing p {
         font-size: 18px;
     }
-      .tab {
-          display: flex;   
-      }
+    .tab {
+        display: flex;   
+    }
 
-      .sec1 {
-          display: flex;
-          flex-direction: column !important;
-      }
+    .sec1 {
+        display: flex;
+        flex-direction: column !important;
+    }
 
-      .sec2 {
-          width: 450px;
-          margin-top: 100px;
-      }
+    .sec2 {
+        margin: 450px 0;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
