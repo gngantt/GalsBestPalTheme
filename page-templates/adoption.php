@@ -82,7 +82,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="100"/>
         </div>
         <div class="cols-sm-3 col-md-2">
-        <a role="button" class="photo-btn sg-popup-id-179" href="https://petstablished.com/adoption_form/40983/generichttps://petstablished.com/adoption_form/40983/generic">
+        <a role="button" class="photo-btn sg-popup-id-45" href="https://petstablished.com/adoption_form/40983/generichttps://petstablished.com/adoption_form/40983/generic">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                 alt="Gals Best Pal logo"
@@ -108,11 +108,13 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="100"/>
         </div>
         <div class="col-sm-3 col-md-2">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
+            <a href="/helpful-resources" target="_blank">
+                <img class="img-fluid" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    alt="Gals Best Pal logo"
+                    height="100"
+                    width="100"/>
+            </a>
         </div>
     </div>
 </div>
