@@ -99,17 +99,14 @@ $container = get_theme_mod( 'understrap_container_type' );
 					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
 					alt="Silhouette of a dog barking"/>
 			</div>
-			<a href="http://eepurl.com/h4RqFX" target="_blank">
 				<div class="col-xs-12 col-sm-10 col-md-5 col-lg-6 mailing">
 					<p>			<img class="filter-white envelope"
 											src="<?php echo get_template_directory_uri(); ?>/images/mailinglist.svg" 
 											alt="envelope with heart on it"
 											height="90"
 											width="90"/>
-						
-					Join our mailing list!</p>
+						<a href="http://eepurl.com/h4RqFX" target="_blank">Join our mailing list!</a></p>
 				</div>
-			</a>
 		</div>
 	</div>
 
