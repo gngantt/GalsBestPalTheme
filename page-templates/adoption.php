@@ -28,7 +28,8 @@ $container = get_theme_mod( 'understrap_container_type' );
                 and educate each person we talk to, so that when you find your perfect match 
                 and are ready to bring them home, you are prepared and ready for the next few 
                 weeks to come! We will continue to provide thoughtful advice and emotional assistance 
-                throughout the lifetime of each GBP adoption.
+                throughout the lifetime of each GBP adoption.</br>
+                <a href="https://www.canva.com/design/DAFEVifLp-w/PiSHkS9pW8jtR5V6yf-J9Q/view?utm_content=DAFEVifLp-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Steps to Adopt</a>
             </p>
         </div>
     <div class="row justify-content-center">
