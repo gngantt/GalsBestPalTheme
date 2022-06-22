@@ -25,7 +25,8 @@ $container = get_theme_mod( 'understrap_container_type' );
                 We are hands on and want to support our fosters through every step. Fostering should be fun, 
                 and it is, if you are prepared and set up for success. Submit an application to start the process. 
                 Our team will reach out to you in 1-2 days & set up a call to chat about the in's and outs of 
-                becoming a foster HERO!
+                becoming a foster HERO!</br>
+                <a href="https://www.canva.com/design/DAFEVfA3-Co/meML-qLZ_nOQ5J_fg5Qd4Q/view?utm_content=DAFEVfA3-Co&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Steps to Fostering</a>
             </p>
         </div>
     </div>
