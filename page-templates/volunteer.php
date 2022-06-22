@@ -17,7 +17,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 <div class="container my-5">
     <h1>Volunteer</h1>
     <hr/>
-    <h2>Be part of the mission!</h2>
+    <h2 class="subHeader">Be part of the mission!</h2>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
