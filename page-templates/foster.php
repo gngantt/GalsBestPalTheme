@@ -44,9 +44,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>About the Program</h2>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col-sm-12 col-md-8">
+        <!-- <div class="col-sm-12 col-md-8">
             <h3>Our Foster Program</h3>
-        </div>
+        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
     <div class="col-sm-3 col-md-2 arrow">
@@ -70,8 +70,8 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Foster Heros</h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-8">
-            <h3>Foster Success Stories</h3>
+        <!-- <div class="col-sm-12 col-md-8">
+            <h3>Foster Success Stories</h3> -->
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
@@ -96,9 +96,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Foster Application</h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-8">
+        <!-- <div class="col-sm-12 col-md-8">
             <h3>Become a Foster Home</h3>
-        </div>
+        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2 arrow">

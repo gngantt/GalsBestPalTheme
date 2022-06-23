@@ -46,9 +46,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Available Dogs</h2>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col-sm-12 col-md-8">
+        <!-- <div class="col-sm-12 col-md-8">
             <h3>Check out our available dogs</h3>
-        </div>
+        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
     <div class="col-sm-3 col-md-2 arrow">
@@ -72,9 +72,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Adoption Application</h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-8">
+       <!-- <div class="col-sm-12 col-md-8">
             <h3>Fill Out an Adoption Application</h3>
-        </div>
+        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
     <div class="col-sm-3 col-md-2 arrow">
@@ -98,9 +98,9 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Helpful Resources</h2>
     </div>
     <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-8">
+       <!-- <div class="col-sm-12 col-md-8">
             <h3>Setting Adopters Up for Success</h3>
-        </div>
+        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2 arrow">
