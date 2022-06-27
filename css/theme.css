@@ -16025,6 +16025,11 @@ h1, .h1, h2, .h2, h4, .h4, h5, .h5, h6, .h6 {
   text-align: center;
 }
 
+.subHeader {
+  font-family: "Buffalo";
+  font-size: 40px;
+}
+
 hr {
   background-color: black;
   width: 50%;
@@ -16047,9 +16052,7 @@ h3, .h3 {
 }
 
 .mail {
-  background: #ff950a;
-  background: linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
-  background: -webkit-linear-gradient(45deg, #ff950a 100%, #ff0a85 0%);
+  background: #DFBABA;
   box-shadow: 12px 12px 2px 1px #010101;
   border: 1px solid #010101;
 }
@@ -16067,12 +16070,21 @@ h3, .h3 {
   font-family: "Lovelo";
 }
 
+.mailing a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .mailing p {
   font-size: 34px;
 }
 
 .navbar-dark .navbar-nav .nav-link {
   color: #010101 !important;
+}
+
+.navbar-nav {
+  font-family: "Lovelo";
 }
 
 .navbar-dark {
@@ -16123,6 +16135,10 @@ h3, .h3 {
 
 .polaroid:hover {
   background-color: #DFBABA;
+}
+
+.py-5 a {
+  font-size: 20px;
 }
 
 .wp-block-search__button {
