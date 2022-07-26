@@ -15,31 +15,41 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
+	
     <h1>Foster Hero</h1>
-    <hr/>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
     <h2 class="subHeader">Be a Dog's Hero</h2>
+	
+	 <div class="row justify-content-center">
 
-    <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text py-5">FOSTERING SAVES LIVES! Our GBP team has years of foster programming experience. 
+            <p class="text py-5" style="font-size:20px">FOSTERING SAVES LIVES! Our GBP team has years of foster programming experience. 
                 We are hands on and want to support our fosters through every step. Fostering should be fun, 
                 and it is, if you are prepared and set up for success. Submit an application to start the process. 
                 Our team will reach out to you in 1-2 days & set up a call to chat about the in's and outs of 
-                becoming a foster HERO!</br>
-                <a href="https://www.canva.com/design/DAFEVfA3-Co/meML-qLZ_nOQ5J_fg5Qd4Q/view?utm_content=DAFEVfA3-Co&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Steps to Fostering</a>
-            </p>
+                becoming a foster HERO!</p>
+		 </div>
+			
+			<div class="row justify-content-center"><br>
+			<h2><a href="https://www.canva.com/design/DAFEVfA3-Co/meML-qLZ_nOQ5J_fg5Qd4Q/view?utm_content=DAFEVfA3-Co&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
         </div>
+
+		
+		
+			
+	
+				
+				
+		
     </div>
-    <div class="row justify-content-center">
-        <div class="col-sm-3 col-md-2 ">
+        <div class="row justify-content-center">
+        <!--<div class="col-sm-3 col-md-2 ">
             <img class="img-fluid pb-5" 
                 src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
                 alt="Gals Best Pal logo"
-                height="150"
+               height="150"
                 width="150"/>
-    </div>       
-    <div class="row justify-content-center">
-    </div>
+    </div>-->
     <div class="row justify-content-center">
         <h2>About the Program</h2>
     </div>
@@ -49,7 +59,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-    <div class="col-sm-3 col-md-2 arrow">
+    <div class="col-sm-3 col-md-1 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
@@ -67,7 +77,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row justify-content-center">
-        <h2>Foster Heros</h2>
+		<h2><br>Foster Heroes</h2>
     </div>
     <div class="row justify-content-center">
         <!-- <div class="col-sm-12 col-md-8">
@@ -75,7 +85,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-2 arrow">
+        <div class="col-sm-3 col-md-1 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
@@ -84,7 +94,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
         <div class="cols-sm-3 col-md-2">
             <a href="/404.php">
-                <img class="img-fluid m-4" 
+                <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                     alt="Gals Best Pal logo"
                     height="100"
@@ -93,7 +103,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row justify-content-center">
-        <h2>Foster Application</h2>
+        <h2><br>Foster Application</h2>
     </div>
     <div class="row justify-content-center">
         <!-- <div class="col-sm-12 col-md-8">
@@ -101,7 +111,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-2 arrow">
+        <div class="col-sm-3 col-md-1 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
@@ -117,7 +127,11 @@ $container = get_theme_mod( 'understrap_container_type' );
                     width="100"/>
             </a>
         </div>
-    </div>
+		
+	</div>
+		
+	
+	
 </div>
 
 <?php
