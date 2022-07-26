@@ -17,7 +17,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Useful Tips and Handouts</h1>
-    <hr/>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
     <h2>Set Yourself Up For Success</h2>
 
     <div class="row justify-content-center">
@@ -28,7 +28,11 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <a href="https://cvm.ncsu.edu/nc-state-college-of-veterinary-medicine-behaviorist-urges-awareness-to-protect-children-from-dog-bites/">How Not to Greet a Dog</a></br>
                 <a href="https://centerforshelterdogs.tufts.edu/wp-content/uploads/2016/03/IdentifyingFearfulSignalsPoster.pdf">Dog Body Language</a></br>
                 <a href="https://thebark.com/content/making-introductions-dog-dog">Introducing your New Dog to your Resident Dog</a></br>
-                <a href="https://youtu.be/BRlxhvQ8I9g">Introducing your New Dog to your Resident Cat</a>
+                <a href="https://youtu.be/BRlxhvQ8I9g">Introducing your New Dog to your Resident Cat</a></br>
+				<a href="https://www.whole-dog-journal.com/training/professional-training/how-to-find-the-best-dog-trainer-for-your-dog/?fbclid=IwAR1PqoSabZyg066Sas9QBy7LpcpyDyRJ_OGKO7uNiWPcGg5ZiqMVEmrIIn8&fs=e&s=cl">How to Find the Best Dog Trainer</a></br>
+				<a href="https://www.animalhumanesociety.org/health/parasites">Common Parasites</a></br>
+				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Introducing-dog-to-children.pdf">Introducing Your Dog to Kids</a></br>
+				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Is-your-dog-stressed-pdf-WEBSITE-.pdf">Is Your Dog Stressed?</a>
             </p>
         </div>
     <div class="row justify-content-center">
@@ -54,7 +58,8 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <a href="https://www.fearfreehappyhomes.com/kit/puppies-101/download/23714/">Puppy Schedule Guide</a></br>
                 <a href="https://www.apartmenttherapy.com/daily-schedule-for-dogs-37063896">Adult Dog Routine</a></br>
                 <a href="https://www.reboundhounds.org/the-first-two-weeks.html">Decompression Phase</a></br>
-                <a href="https://static1.squarespace.com/static/5acd6d2a3e2d09e44728ddca/t/5cc65c52ee6eb05d619f8dcf/1556503635104/A+Guide+to+the+First+Two+Weeks.pdf">"Two Week Shutdown"</a>
+                <a href="https://galsbestpal.com/wp-content/uploads/2022/07/First-two-weeks-pdf.pdf">"First Two Weeks"</a></br>
+				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Teaching-your-PAL-to-come.pdf">Teaching Your Pal to "Come"</a>
             </p>    
         </div>
     </div>
@@ -68,9 +73,11 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <a href="https://www.fearfreehappyhomes.com/how-to-house-train-your-puppy-the-fear-free-way/">Potty Training</a></br>
                 <a href="https://pawsintraining.com/dog-that-will-not-go-to-the-bathroom-in-front-of-you/">Additional Potty Training</a></br>
                 <a href="http://www.ispeakdog.org/dog-behaviors.html">Behavior Solutions</a></br>
-                <a href="muzzleupproject.com">Muzzle Up!</a></br>
-                <a href="https://paws training.com/why-dogs-need-toys/">Why Dogs Need Toys</a>
-            </p>    
+                <a href="https://muzzleupproject.com/">Muzzle Up!</a></br>
+				<a href="https://pawsintraining.com/why-dogs-need-toys/#:~:text=Toys%20are%20mentally%20and%20physically,and%20fulfill%20their%20chewing%20needs.">Why Dogs Need Toys</a></br>
+				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/The-best-way-to-handle-problem-behaviors-is-to-not-let-them-start.pdf">	Tips We've Found Along the Way</a>
+            </p>   
+
         </div>
     </div>
     </div>

@@ -16,12 +16,12 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Get in Touch</h1>
-    <hr/>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
     <h2 class="subHeader">We are an all volunteer run 501 C3 nonprofit org</h2>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text py-5">We are all volunteers here at The GBP Rescue Mission. 
+            <p class="text py-5" style="font-size:20px">We are all volunteers here at The GBP Rescue Mission. 
                 Please allow us 48 hours to respond to your email. We do our absolute 
                 best to respond in a timely manner.
             </p>
@@ -34,7 +34,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 				<div class="row justify-content-center">
 					<div class="col-9">
-						<p class="text text-1">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in dog rescue and started a blog about her fosters and the dogs she met through rescue. 
+						<p class="text text-1" style="font-size:20px">Fresh out of business school and feeling unfulfilled by the typical 9-5 job, Felicia felt the desire to make a difference outside of the corporate world. The pandemic hit and everyone had time to foster- so she signed up! Immediately, she was hooked on being involved in dog rescue and started a blog about her fosters and the dogs she met through rescue. 
                         Being brand new to fostering and rescue- Felicia met Molleen and Marissa, who had YEARS of experience between the two of them. The first year of working together, the three worked tirelessly on harder to place dogs and local surrenders as they fell more and more in love with the misunderstood dogs needing homes. After months of working together and many successful adoptions/fosters, they decided creating The Gals Best Pal Rescue Mission would be the perfect next step, to assist more of these dogs in need.</p>
 						<button class="btn readMore">Read more</button>
 						<p class=" text signature">Love,<br/> Felicia, Molleen, and Marissa</p>
@@ -90,7 +90,24 @@ $container = get_theme_mod( 'understrap_container_type' );
                     height="200"
                     width="200"/>
             </a>
+			<div class="row justify-content-center">
+        <h2>Donate to Help a Dog</h2>
+    </div>
+		<div class="row text-center justify-content-center align-items-center buttonImage">
+            <a href="/404.php" target="_blank">
+                <img class="img-fluid" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/donatebutton.svg" 
+                    alt="Gals Best Pal logo"
+                    height="200"
+                    width="200"/>
+            </a>
+		
+			
+		
+			
         </div>
+	
+		
     </div>
 </div>
 

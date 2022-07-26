@@ -16,16 +16,21 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Volunteer</h1>
-    <hr/>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
     <h2 class="subHeader">Be part of the mission!</h2>
-
+	
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
-            <p class="text py-5">We are all volunteers! The GBP RESCUE MISSION was formed on that very idea. This rescue has so many moving parts and the more the merrier is the way we look at it! We love our volunteers and believe every person has a place in rescue! We believe in communication and mutual respect throughout the organization. Everyone is equally as important here from the dog walkers, to the Directors. We want to hear your ideas and utilize everyone's personal strengths! Join us! 
+            <p class="text py-5" style="font-size:20px">We are all volunteers! The GBP RESCUE MISSION was formed on that very idea. This rescue has so many moving parts and the more the merrier is the way we look at it! We love our volunteers and believe every person has a place in rescue! We believe in communication and mutual respect throughout the organization. Everyone is equally as important here from the dog walkers, to the Directors. We want to hear your ideas and utilize everyone's personal strengths! Join us! 
 
             </p>
+			
         </div>
     </div>
+	
+	
+	
+	
     <div class="row justify-content-center">
         <div class="col-sm-3 col-md-2 ">
             <img class="img-fluid pb-5" 
@@ -45,7 +50,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="col-sm-3 col-md-2 arrow">
+        <div class="col-sm-3 col-md-1 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
@@ -71,7 +76,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="col-sm-3 col-md-2 arrow">
+        <div class="col-sm-3 col-md-1 arrow">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
                 alt="Gals Best Pal logo"
