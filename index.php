@@ -107,6 +107,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 											width="90"/>
 						<a href="http://eepurl.com/h4RqFX" target="_blank">Join our mailing list!</a></p>
 				</div>
+			
+			<div class="col-sm-3 col-md-2">
+            <a href="https://galsbestpal.com/wp-content/uploads/2022/07/GBP-FAQs-Draft-GENERAL-QUESTIONS-Where-is-GBP-Rescue-located_-We-are-a-Massachusetts-foster-based-shelterless-rescue.-All-of-our-rescue-PALS-are-temporarily-placed-with-loving-foster-homes-awaiting-.pdf" target="_blank">
+                <img class="img-fluid tennisBall" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/FAQ.png" 
+                    alt="Gals Best Pal logo"
+                    height="100"
+                    width="100"/>
+				
+				
 		</div>
 	</div>
 

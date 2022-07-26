@@ -16,9 +16,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
-    <h1>Useful Tips and Handouts</h1>
-    <hr style="height:3px;border-width:0;color:black;background-color:black">
-    <h2>Set Yourself Up For Success</h2>
+     <h2 class="subHeader" style="font-size:50px">Useful Tips & Handouts</h2>
+	<hr style="height:3px;border-width:0;color:black;background-color:black"><br>
+    <h3 size="+2">Set Yourself Up For Success</h3>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
@@ -68,6 +68,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row justify-content-center align-items-center">
         <div class="col-sm-12 col-md-8">
+			
             <p class="text py-3">
                 <a href="https://www.humanesociety.org/resources/crate-training-101">Crate Training</a></br>
                 <a href="https://www.fearfreehappyhomes.com/how-to-house-train-your-puppy-the-fear-free-way/">Potty Training</a></br>
@@ -76,6 +77,10 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <a href="https://muzzleupproject.com/">Muzzle Up!</a></br>
 				<a href="https://pawsintraining.com/why-dogs-need-toys/#:~:text=Toys%20are%20mentally%20and%20physically,and%20fulfill%20their%20chewing%20needs.">Why Dogs Need Toys</a></br>
 				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/The-best-way-to-handle-problem-behaviors-is-to-not-let-them-start.pdf">	Tips We've Found Along the Way</a>
+				
+
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/07/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2>
+
             </p>   
 
         </div>
