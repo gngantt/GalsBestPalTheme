@@ -93,7 +93,23 @@ $container = get_theme_mod( 'understrap_container_type' );
 					</div>
 				</div>
 			</div>
-		<div class="row justify-content-center align-baseline py-5 sec2">
+			
+			
+	
+    </div>
+    <div class="row text-center justify-content-center align-items-center">
+        <div class="col-sm-3 col-md-2 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="200"
+                width="200"/>
+        </div>
+        <div class="col-sm-1 col-md-4">
+            <h2 class="subHeader"><a href="https://galsbestpal.com/wp-content/uploads/2022/07/GBP-FAQs-Draft-GENERAL-QUESTIONS-Where-is-GBP-Rescue-located_-We-are-a-Massachusetts-foster-based-shelterless-rescue.-All-of-our-rescue-PALS-are-temporarily-placed-with-loving-foster-homes-awaiting-.pdf" target="_blank" style="font-size:34px; padding: 10px; border: 3px solid black;">Frequently Asked Questions</a></h2><br>
+               
+        </div>
+	<div class="row justify-content-center align-baseline py-5 sec2">
 			<div class="col-xs-3 col-sm-3 col-lg-3">
 				<img class="img-fluid pupPhoto" 
 					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
@@ -108,13 +124,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<a href="http://eepurl.com/h4RqFX" target="_blank">Join our mailing list!</a></p>
 				</div>
 			
-			<div class="col-sm-3 col-md-2">
-            <a href="https://galsbestpal.com/wp-content/uploads/2022/07/GBP-FAQs-Draft-GENERAL-QUESTIONS-Where-is-GBP-Rescue-located_-We-are-a-Massachusetts-foster-based-shelterless-rescue.-All-of-our-rescue-PALS-are-temporarily-placed-with-loving-foster-homes-awaiting-.pdf" target="_blank">
-                <img class="img-fluid tennisBall" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/FAQ.png" 
-                    alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+			
 				
 				
 		</div>

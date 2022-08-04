@@ -32,7 +32,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="https://www.whole-dog-journal.com/training/professional-training/how-to-find-the-best-dog-trainer-for-your-dog/?fbclid=IwAR1PqoSabZyg066Sas9QBy7LpcpyDyRJ_OGKO7uNiWPcGg5ZiqMVEmrIIn8&fs=e&s=cl">How to Find the Best Dog Trainer</a></br>
 				<a href="https://www.animalhumanesociety.org/health/parasites">Common Parasites</a></br>
 				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Introducing-dog-to-children.pdf">Introducing Your Dog to Kids</a></br>
-				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Is-your-dog-stressed-pdf-WEBSITE-.pdf">Is Your Dog Stressed?</a>
+				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/Is-your-dog-stressed-pdf-WEBSITE-.pdf">Is Your Dog Stressed?</a></br>
+				<a href="https://aggressivedog.com/2022/07/26/introducing-new-dogs-into-multidog-households/?fs=e&s=cl">Introducing New Dogs Into Multi Dog Households</a>
+				
             </p>
         </div>
     <div class="row justify-content-center">
@@ -79,11 +81,35 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/The-best-way-to-handle-problem-behaviors-is-to-not-let-them-start.pdf">	Tips We've Found Along the Way</a>
 				
 
-				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/07/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2>
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/07/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2></br>
 
             </p>   
 
         </div>
+</div>
+			<div class="row justify-content-center">
+        <br><br><h2>Donate to Help a Dog</h2>
+    </div>
+			
+			<div class="row text-center justify-content-center align-items-center buttonImage">
+        <div class="col-sm-3 col-md-1 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="200"
+                width="200"/>
+       </div>
+        <div class="col-sm-3 col-md-2">
+            <a href="/404.php" target="_blank">
+                <img class="img-fluid" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
+                    alt="Gals Best Pal logo"
+                    height="300"
+                    width="300"/>
+            </a>
+			</div>
+
+
     </div>
     </div>
 </div>

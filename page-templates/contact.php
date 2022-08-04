@@ -91,21 +91,27 @@ $container = get_theme_mod( 'understrap_container_type' );
                     width="200"/>
             </a>
 			<div class="row justify-content-center">
-        <h2>Donate to Help a Dog</h2>
+        <h3>Donate to Help a Dog</h3>
     </div>
-		<div class="row text-center justify-content-center align-items-center buttonImage">
-            <a href="/404.php" target="_blank">
+			
+			<div class="row text-center align-items-center buttonImage">
+        <div class="col-sm-3 col-lg-4 arrow">
+            <img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
+                alt="Gals Best Pal logo"
+                height="200"
+                width="200"/>
+       </div>
+        <div class="col-sm-3 col-lg-5">
+            <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/donatebutton.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
-                    height="200"
-                    width="200"/>
+                    height="100"
+                    width="100"/>
             </a>
-		
-			
-		
-			
-        </div>
+			</div>
+			</div>
 	
 		
     </div>
