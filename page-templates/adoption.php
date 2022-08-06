@@ -141,13 +141,13 @@ $container = get_theme_mod( 'understrap_container_type' );
                 height="200"
                 width="200"/>
        </div>
-        <div class="col-sm-3 col-md-2">
-            <a href="/404.php" target="_blank">
+        <div class="col-sm-3 col-lg-2">
+            <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
-                    height="300"
-                    width="300"/>
+                    height="150"
+                    width="150"/>
             </a>
 			</div>
 			

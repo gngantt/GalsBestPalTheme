@@ -45,9 +45,6 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>About the Program</h2>
     </div>
     <div class="row justify-content-center align-items-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Our Volunteer Program</h3>
-        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
         <div class="col-sm-3 col-md-1 arrow">
@@ -71,9 +68,6 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Volunteer Application</h2>
     </div>
     <div class="row justify-content-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Join the mission</h3>
-        </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
         <div class="col-sm-3 col-md-1 arrow">
@@ -105,13 +99,13 @@ $container = get_theme_mod( 'understrap_container_type' );
                 height="200"
                 width="200"/>
        </div>
-        <div class="col-sm-4 col-md-2">
-            <a href="/404.php" target="_blank">
+         <div class="col-sm-3 col-lg-2">
+            <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
-                    height="300"
-                    width="300"/>
+                    height="150"
+                    width="150"/>
             </a>
 			</div>
 			
@@ -120,4 +114,5 @@ $container = get_theme_mod( 'understrap_container_type' );
 </div>
 
 <?php
+get_footer();
 get_footer();

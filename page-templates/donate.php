@@ -52,20 +52,26 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row">
         <div class="col">
+			<a href="https://smile.amazon.com/hz/wishlist/ls/15VG4OWTTWM3V/ref=nav_wishlist_lists_2">
         <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
                 alt="amazon logo"
                 height="100"
                 width="100"/>
+			</a>
         </div>
+		
         <div class="col">
+			<a href="https://smile.amazon.com/charity/select/search?q=Gal+S+Best+Pal+Incorporated&orig=&ie=UTF-8">
         <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/amazonlogo.svg" 
                 alt="amazon logo"
                 height="100"
                 width="100"/>
+			</a>
         </div>
     </div>
+	
 </div>
 
 <?php

@@ -89,7 +89,8 @@ $container = get_theme_mod( 'understrap_container_type' );
                     alt="Gals Best Pal logo"
                     height="200"
                     width="200"/>
-            </a>
+			</a>
+			
 			<div class="row justify-content-center">
         <h3>Donate to Help a Dog</h3>
     </div>
@@ -112,8 +113,6 @@ $container = get_theme_mod( 'understrap_container_type' );
             </a>
 			</div>
 			</div>
-	
-		
     </div>
 </div>
 
