@@ -17,23 +17,40 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
     <h1>Donate</h1>
-    <hr/>
-    <h3 class="subHeader">Donate to the mission</h3>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
+    <h2 class="subHeader">Donate to the mission</h2>
 
     <div class="row justify-content-center">
         <div class="col-md-11 col-lg-9">
             <p class="text pt-0 ">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!
             </p>
+	<a href="https://petlover.petstablished.com/online_donations/organization/2654835?pet_id=1491549&_ga=2.163410300.1530045006.1659823076-1089981098.1655487524">
             <img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/donatebutton.svg" 
                 alt="Gals Best Pal logo"
                 height="250"
                 width="250"/>
+	</a>
         </div>
     </div>
         </div>
-    </div>    
+    </div> 
+
+			<div class="row justify-content-center">
+					<h2>Become a GBP VIP</h2>
+				<div class="col-md-11 col-lg-9">
+			<img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/donatebutton.svg" 
+                alt="Gals Best Pal logo"
+                height="250"
+                width="250"/>
+       	 	</div>
+</div>
+
+
+
+
     <div class="row justify-content-center">
         <h2>Will your employer match your donation?</h2>
     </div>
@@ -42,6 +59,11 @@ $container = get_theme_mod( 'understrap_container_type' );
             <h3>Double the donation!</h3>
         </div>
     </div>
+
+
+
+
+
     <div class="row">
         <div class="col">
             <h2>Amazon Wishlist</h2>

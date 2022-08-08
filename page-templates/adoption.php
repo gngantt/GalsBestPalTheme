@@ -62,7 +62,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="100"/>
         </div>
         <div class="col-sm-3 col-md-2">
-            <a href="https://www.facebook.com/galsbestpal/" target="_blank">
+            <a href="https://www.adoptapet.com/shelter190185-dogs.html" target="_blank">
                 <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                     alt="Gals Best Pal logo"

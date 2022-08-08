@@ -106,7 +106,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="200"/>
         </div>
         <div class="col-sm-1 col-md-4">
-            <h2 class="subHeader"><a href="https://galsbestpal.com/wp-content/uploads/2022/07/GBP-FAQs-Draft-GENERAL-QUESTIONS-Where-is-GBP-Rescue-located_-We-are-a-Massachusetts-foster-based-shelterless-rescue.-All-of-our-rescue-PALS-are-temporarily-placed-with-loving-foster-homes-awaiting-.pdf" target="_blank" style="font-size:34px; padding: 10px; border: 3px solid black;">Frequently Asked Questions</a></h2><br>
+            <h2 class="subHeader"><a href="https://galsbestpal.com/wp-content/uploads/2022/08/GBP_FAQ.pdf" target="_blank" style="font-size:34px; padding: 10px; border: 3px solid black;">Frequently Asked Questions</a></h2><br>
                
         </div>
 	<div class="row justify-content-center align-baseline py-5 sec2">
