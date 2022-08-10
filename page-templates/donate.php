@@ -50,7 +50,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 
     <br><div class="row justify-content-center">
         <h2>Will your employer match your donation?</h2>
-		<h3>Double the donation!</h3>
     </div>
   
 
@@ -77,12 +76,12 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
 	
 			<div class="col-md-3 col-md-3">
-			<a href="https://galsbestpal.com/wp-content/uploads/2022/08/GBP_Donate.pdf">
+			<a href="https://doublethedonation.com/">
 			<img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/GBP_VIP.png" 
+                src="<?php echo get_template_directory_uri(); ?>/images/DoubleDonation.png" 
                 alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
+                height="150"
+                width="150"/>
 						</a>
 			</div>
 	

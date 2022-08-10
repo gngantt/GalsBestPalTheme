@@ -51,7 +51,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="150"/>
     </div>-->
     <div class="row justify-content-center">
-        <h2>About the Program</h2>
+        <h2>About Our Program</h2>
     </div>
     <div class="row justify-content-center align-items-center">
         <!-- <div class="col-sm-12 col-md-8">
@@ -67,7 +67,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="100"/>
         </div>
         <div class="col-sm-3 col-md-2">
-            <a href="/404.php">
+            <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Hero.pdf">
                 <img class="img-fluid tennisBall" 
                     src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                     alt="Gals Best Pal logo"
@@ -93,7 +93,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="100"/>
         </div>
         <div class="cols-sm-3 col-md-2">
-            <a href="/404.php">
+            <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Program.pdf">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
                     alt="Gals Best Pal logo"
