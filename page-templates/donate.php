@@ -16,21 +16,19 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
-    <h1>Donate</h1>
-    <hr style="height:3px;border-width:0;color:black;background-color:black">
-    <h2 class="subHeader">Donate to the mission</h2>
+    <h2 class="subHeader" style="font-size:55px">Donate to the mission</h2>
 
     <div class="row justify-content-center">
-        <div class="col-md-11 col-lg-9">
+        <div class="col-md-9 col-lg-9">
             <p class="text pt-0 ">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!
             </p>
-	
-
         </div>
     </div>
         </div>
     </div> 
+
+<h2><a href="https://petlover.petstablished.com/online_donations/organization/2654835?pet_id=1491549&_ga=2.163410300.1530045006.1659823076-1089981098.1655487524" style="font-size:24px; padding: 10px; border: 3px solid black;">Donate Here</a></h2><br><br>
 
 			<div class="row justify-content-center">
 					<h2>Become a GBP VIP</h2>
@@ -46,7 +44,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 </div><br><br>
 
 
-<h2><a href="https://petlover.petstablished.com/online_donations/organization/2654835?pet_id=1491549&_ga=2.163410300.1530045006.1659823076-1089981098.1655487524" style="font-size:24px; padding: 10px; border: 3px solid black;">Donate Here!</a></h2>
+
 
     <br><div class="row justify-content-center">
         <h2>Will your employer match your donation?</h2>
@@ -68,17 +66,19 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
   
 	<div class="row ustify-content-center">
-			<a href="">
+			<a href="https://galsbestpal.com/wp-content/uploads/2022/08/AMAZON-ANGELS-PDF.pdf">
 			<img class="img-fluid" 
+				style="padding: 10px"
                 src="<?php echo get_template_directory_uri(); ?>/images/Amazon.jpeg" 
                 alt="Gals Best Pal logo"
-                height="150"
-                width="150"/>
-						</a>
+                height="175"
+                width="175"/>
+						</a><br><br>
 			</div>
 
     </div>
 	
+</div>
 </div>
 
 <?php
