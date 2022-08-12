@@ -110,12 +110,14 @@ $container = get_theme_mod( 'understrap_container_type' );
                
         </div>
 	<div class="row justify-content-center align-baseline py-5 sec2">
-			<div class="col-xs-3 col-sm-3 col-lg-3">
+			<div class="col-xs-3 col-sm-3 col-md-4">
 				<img class="img-fluid pupPhoto" 
-					src="<?php echo get_template_directory_uri(); ?>/images/dogsilhouette1.svg" 
-					alt="Silhouette of a dog barking"/>
+					src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
+					alt="Silhouette of a dog barking"
+					 height="150"
+					 width="150"/>
 			</div>
-				<div class="col-xs-12 col-sm-10 col-md-5 col-lg-6 mailing">
+				<div class="col-xs-12 col-sm-10 col-md-3 col-lg-6 mailing">
 					<p>			<img class="filter-white envelope"
 											src="<?php echo get_template_directory_uri(); ?>/images/mailinglist.svg" 
 											alt="envelope with heart on it"
