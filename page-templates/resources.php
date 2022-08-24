@@ -100,7 +100,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="200"/>
        </div>
         <div class="col-sm-3 col-md-2">
-            <a href="/404.php" target="_blank">
+            <a href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"

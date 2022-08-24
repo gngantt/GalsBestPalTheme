@@ -33,7 +33,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="row justify-content-center">
 					<h2>Become a GBP VIP</h2>
 				<div class="col-md-11 col-lg-9">
-					<a href="https://galsbestpal.com/wp-content/uploads/2022/08/GBP_Donate.pdf">
+					<a href="https://galsbestpal.com/wp-content/uploads/2022/08/GBP_VIP.pdf">
 			<img class="img-fluid" 
                 src="<?php echo get_template_directory_uri(); ?>/images/GBP_VIP.png" 
                 alt="Gals Best Pal logo"
@@ -66,7 +66,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
   
 	<div class="row ustify-content-center">
-			<a href="https://galsbestpal.com/wp-content/uploads/2022/08/AMAZON-ANGELS-PDF.pdf">
+			<a href="https://galsbestpal.com/wp-content/uploads/2022/08/AmazonAngles.pdf">
 			<img class="img-fluid" 
 				style="padding: 10px"
                 src="<?php echo get_template_directory_uri(); ?>/images/Amazon.jpeg" 

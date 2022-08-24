@@ -111,11 +111,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
 	<div class="row justify-content-center align-baseline py-5 sec2">
 			<div class="col-xs-3 col-sm-3 col-md-4">
+				<a href="/donate">
 				<img class="img-fluid pupPhoto" 
 					src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
 					alt="Silhouette of a dog barking"
 					 height="150"
 					 width="150"/>
+				</a>
 			</div>
 				<div class="col-xs-12 col-sm-10 col-md-3 col-lg-6 mailing">
 					<p>			<img class="filter-white envelope"

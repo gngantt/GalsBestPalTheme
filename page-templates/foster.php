@@ -31,7 +31,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		 </div>
 			
 			<div class="row justify-content-center"><br>
-			<h2><a href="https://www.canva.com/design/DAFEVfA3-Co/meML-qLZ_nOQ5J_fg5Qd4Q/view?utm_content=DAFEVfA3-Co&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
+			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Steps-to-fostering-pdf.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
         </div>
 
 		

@@ -64,7 +64,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
-            <a href="https://www.canva.com/design/DAFC1Q20WT0/1cIV0Ns1ziuMG9tXCluftQ/view?utm_content=DAFC1Q20WT0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+            <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Regarding-rehoming-pdf.pdf" target="_blank">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/envelope.svg" 
                     alt="Gals Best Pal logo"

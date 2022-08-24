@@ -30,7 +30,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 and are ready to bring them home, you are prepared and ready for the next few 
                 weeks to come! We will continue to provide thoughtful advice and emotional assistance 
 				throughout the lifetime of each GBP adoption.</p>
-				<h2><a href="https://www.canva.com/design/DAFEVifLp-w/PiSHkS9pW8jtR5V6yf-J9Q/view?utm_content=DAFEVifLp-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Adopt</a></h2><br><br>
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Steps-to-adoption-pdf.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Adopt</a></h2><br><br>
             
         </div>
     <!--<div class="row justify-content-center">
