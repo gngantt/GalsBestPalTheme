@@ -81,7 +81,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="https://galsbestpal.com/wp-content/uploads/2022/07/The-best-way-to-handle-problem-behaviors-is-to-not-let-them-start.pdf">	Tips We've Found Along the Way</a>
 				
 
-				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/07/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2></br>
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2></br>
 
             </p>   
 

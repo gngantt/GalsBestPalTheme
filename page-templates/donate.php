@@ -28,7 +28,12 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div> 
 
-<h2><a href="https://petlover.petstablished.com/online_donations/organization/2654835?pet_id=1491549&_ga=2.163410300.1530045006.1659823076-1089981098.1655487524" style="font-size:24px; padding: 10px; border: 3px solid black;">Donate Here</a></h2><br><br>
+<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Ways2Donate.pdf" style="font-size:24px; padding: 10px; border: 3px solid black;">Ways to Donate</a></h2><br><br>
+<h2>
+	
+
+
+
 
 			<div class="row justify-content-center">
 					<h2>Become a GBP VIP</h2>
