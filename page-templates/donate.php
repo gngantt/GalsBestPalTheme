@@ -28,7 +28,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div> 
 
-<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Ways2Donate.pdf" style="font-size:24px; padding: 10px; border: 3px solid black;">Ways to Donate</a></h2><br><br>
+<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/09/ways2donate.pdf" style="font-size:24px; padding: 10px; border: 3px solid black;">Ways to Donate</a></h2><br><br>
 <h2>
 	
 

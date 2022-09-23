@@ -36,6 +36,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<!-- comment out donate link until donations accepted
 						 <a href="#" class="footertext">Donate</a> -->
 						<p>Made with ❤ by <a class="greenfield" href="https://greenfield-org.github.io/" target="_blank">Greenfield Development</a> - Copyright &copy; <script>document.write(new Date().getFullYear())</script></p>
+						
+						
+						<p>
+							Run by Gabby
+						
+						<img class="center" 
+					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
+					alt="Silhouette of a dog barking"
+					 height="30"
+							 width="30"/></p>
 
 						<!--<a href="#" class="footertext">Donate</a>-->
 
