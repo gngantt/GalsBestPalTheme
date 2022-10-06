@@ -47,20 +47,13 @@ $container = get_theme_mod( 'understrap_container_type' );
     <div class="row justify-content-center align-items-center">
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="https://www.canva.com/design/DAFC1sJ55g0/hDrrQeW_n4OY5gkaisJXrg/view?utm_content=DAFC1sJ55g0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
                 <img class="img-fluid m-4" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
         </div>
     </div>
@@ -70,20 +63,13 @@ $container = get_theme_mod( 'understrap_container_type' );
     <div class="row justify-content-center">
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="https://petstablished.com/petlover/general_form/42975" target="_blank">
                 <img class="img-fluid m-4" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
 			
 			</div>
@@ -92,20 +78,13 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
 			
 			<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="200"
-                width="200"/>
-       </div>
          <div class="col-sm-3 col-lg-2">
             <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
-                    height="150"
-                    width="150"/>
+                    height="100"
+                    width="100"/>
             </a>
 			</div>
 			

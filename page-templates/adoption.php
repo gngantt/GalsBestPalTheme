@@ -30,7 +30,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 and are ready to bring them home, you are prepared and ready for the next few 
                 weeks to come! We will continue to provide thoughtful advice and emotional assistance 
 				throughout the lifetime of each GBP adoption.</p>
-				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Steps-to-adoption-pdf.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Adopt</a></h2><br><br>
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/10/steps-to-adopting.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Adopt</a></h2><br><br>
             
         </div>
     <!--<div class="row justify-content-center">
@@ -54,20 +54,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 	
 	
     <div class="row text-center justify-content-center align-items-center buttonImage">
-    <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="https://www.adoptapet.com/shelter190185-dogs.html" target="_blank">
                 <img class="img-fluid m-4" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
         </div>
     </div>
@@ -87,20 +80,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-    <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="cols-sm-3 col-md-2">
         <a role="button" class="photo-btn sg-popup-id-179" href="https://petstablished.com/adoption_form/40983/generichttps://petstablished.com/adoption_form/40983/generic">
             <img class="img-fluid m-4" 
-                src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                 alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
+                height="150"
+                width="150"/>
         </a>
         </div>
     </div>
@@ -113,20 +99,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="/helpful-resources" target="_blank"><br>
                 <img class="img-fluid tennisBall" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
 		</div><br>
 			<div class="row justify-content-center">
@@ -134,13 +113,6 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
 			
 			<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="200"
-                width="200"/>
-       </div>
         <div class="col-sm-3 col-lg-2">
             <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 

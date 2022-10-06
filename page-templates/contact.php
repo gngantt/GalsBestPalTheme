@@ -96,14 +96,6 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
 			
 			<div class="row text-center align-items-center buttonImage">
-        <div class="col-sm-3 col-lg-4 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="200"
-                width="200"/>
-       </div>
-        <div class="col-sm-3 col-lg-5">
             <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 

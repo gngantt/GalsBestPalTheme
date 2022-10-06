@@ -31,7 +31,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		 </div>
 			
 			<div class="row justify-content-center"><br>
-			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/Steps-to-fostering-pdf.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
+			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/10/steps-to-fostering.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
         </div>
 
 		
@@ -59,20 +59,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-    <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Program.pdf">
                 <img class="img-fluid tennisBall" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
         </div>
     </div>
@@ -85,20 +78,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="cols-sm-3 col-md-2">
             <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Hero.pdf">
                 <img class="img-fluid" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
         </div>
     </div>
@@ -111,20 +97,13 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div> -->
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="100"
-                width="100"/>
-        </div>
         <div class="col-sm-3 col-md-2">
             <a href="https://petstablished.com/foster_form/40982/generic" target="_blank">
                 <img class="img-fluid m-4" 
-                    src="<?php echo get_template_directory_uri(); ?>/images/tennisball.svg" 
+                    src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
-                    height="100"
-                    width="100"/>
+                    height="150"
+                    width="150"/>
             </a>
 			
 			 </div>
@@ -133,20 +112,13 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
 			
 			<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-1 arrow">
-            <img class="img-fluid" 
-                src="<?php echo get_template_directory_uri(); ?>/images/arrowcrop.gif" 
-                alt="Gals Best Pal logo"
-                height="200"
-                width="200"/>
-       </div>
          <div class="col-sm-3 col-lg-2">
             <a role="button" class="photo-btn" href="/donate">
                 <img class="img-fluid" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
-                    height="150"
-                    width="150"/>
+                    height="100"
+                    width="100"/>
             </a>
 			</div>
        

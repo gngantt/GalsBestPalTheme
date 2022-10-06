@@ -24,7 +24,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<br><br>
 	<div class="row justify-content-center"><br>
-			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/08/AMAZON-SHOP.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Amazon Affiliate Shop</a></h2><br><br><br>
+			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/09/AMAZON-SHOP.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Amazon Affiliate Shop</a></h2><br><br><br>
         </div>
 	
    
@@ -33,7 +33,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
   
 	<div class="row ustify-content-center">
-			<a href="https://galsbestpal.com/wp-content/uploads/2022/08/AmazonAngles.pdf">
+			<a href="https://galsbestpal.com/wp-content/uploads/2022/09/AmazonAngles.pdf">
 			<img class="img-fluid" 
 				style="padding: 10px"
                 src="<?php echo get_template_directory_uri(); ?>/images/Amazon.jpeg" 
@@ -42,6 +42,9 @@ $container = get_theme_mod( 'understrap_container_type' );
                 width="175"/>
 						</a><br><br>
 			</div>
+	
+	<a target="_blank" href="https://shareasale.com/r.cfm?b=1626944&amp;u=3408493&amp;m=66364&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/66364/Embark_Affiliate_Ads_FINAL_392x72.jpg" border="0" /></a>
+	
 </div>
 
 <?php
