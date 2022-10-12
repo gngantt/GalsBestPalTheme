@@ -47,10 +47,8 @@ $container = get_theme_mod( 'understrap_container_type' );
         <h2>Available Dogs</h2>
     </div>
     <div class="row justify-content-center align-items-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Check out our available dogs</h3>
-        </div> -->
-    </div>
+     
+    
 	
 	
     <div class="row text-center justify-content-center align-items-center buttonImage">
@@ -101,7 +99,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
             <a href="/helpful-resources" target="_blank"><br>
-                <img class="img-fluid tennisBall" 
+                <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
                     height="150"

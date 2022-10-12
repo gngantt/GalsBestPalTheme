@@ -32,36 +32,20 @@ $container = get_theme_mod( 'understrap_container_type' );
 			
 			<div class="row justify-content-center"><br>
 			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/10/steps-to-fostering.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Steps to Fostering</a></h2><br><br><br>
-        </div>
-
-		
-		
-			
-	
-				
-				
+        </div>		
 		
     </div>
         <div class="row justify-content-center">
-        <!--<div class="col-sm-3 col-md-2 ">
-            <img class="img-fluid pb-5" 
-                src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-                alt="Gals Best Pal logo"
-               height="150"
-                width="150"/>
-    </div>-->
+       
     <div class="row justify-content-center">
         <h2>About Our Program</h2>
     </div>
     <div class="row justify-content-center align-items-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Our Foster Program</h3>
-        </div> -->
-    </div>
+        
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
             <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Program.pdf">
-                <img class="img-fluid tennisBall" 
+                <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
                     height="150"
@@ -73,14 +57,12 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<h2><br>Foster Heroes</h2>
     </div>
     <div class="row justify-content-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Foster Success Stories</h3> -->
-        </div>
-    </div>
+       
+    
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="cols-sm-3 col-md-2">
             <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Hero.pdf">
-                <img class="img-fluid" 
+                <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
                     height="150"
@@ -88,14 +70,13 @@ $container = get_theme_mod( 'understrap_container_type' );
             </a>
         </div>
     </div>
+		</div>
     <div class="row justify-content-center">
         <h2><br>Foster Application</h2>
     </div>
     <div class="row justify-content-center">
-        <!-- <div class="col-sm-12 col-md-8">
-            <h3>Become a Foster Home</h3>
-        </div> -->
-    </div>
+		
+      
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
             <a href="https://petstablished.com/foster_form/40982/generic" target="_blank">
@@ -107,20 +88,25 @@ $container = get_theme_mod( 'understrap_container_type' );
             </a>
 			
 			 </div>
+		</div>
+		</div>
+		
 			<div class="row justify-content-center">
         <br><br><h2>Donate to Help a Dog</h2>
     </div>
-			
+			 <div class="row justify-content-center">
 			<div class="row text-center justify-content-center align-items-center buttonImage">
          <div class="col-sm-3 col-lg-2">
             <a role="button" class="photo-btn" href="/donate">
-                <img class="img-fluid" 
+                <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/DonateClick.png" 
                     alt="Gals Best Pal logo"
                     height="100"
                     width="100"/>
             </a>
 			</div>
+				 </div>
+		</div>
        
 		
 	</div>
