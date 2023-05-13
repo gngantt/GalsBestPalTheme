@@ -24,7 +24,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<br><br>
 	<div class="row justify-content-center"><br>
-			<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/09/AMAZON-SHOP.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Amazon Affiliate Shop</a></h2><br><br><br>
+			<h2><a href="https://galsbestpal.com/wp-content/uploads/2023/01/AMAZON-SHOP.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Amazon Affiliate Shop</a></h2><br><br><br>
         </div>
 	
    

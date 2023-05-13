@@ -44,7 +44,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
-            <a href="https://galsbestpal.com/wp-content/uploads/2022/08/Foster-Program.pdf">
+            <a href="https://galsbestpal.com/wp-content/uploads/2023/01/foster.pdf">
                 <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
