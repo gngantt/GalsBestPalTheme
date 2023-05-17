@@ -16,24 +16,31 @@ $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
 <div class="container my-5">
-    <h2 class="subHeader" style="font-size:55px">Donate to the mission</h2>
+     <h1>Donate</h1>
+    <hr style="height:3px;border-width:0;color:black;background-color:black">
+    <h2 class="subHeader">Ways to Donate to The Mission</h2>
+	<br>
 
     <div class="row justify-content-center">
         <div class="col-md-9 col-lg-9">
             <p class="text pt-0 ">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!
             </p>
-        </div>
-    </div>
-        </div>
-    </div> 
-
-<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/09/ways2donate.pdf" style="font-size:24px; padding: 10px; border: 3px solid black;">Ways to Donate</a></h2><br><br>
-<h2>
+       
 	
+	<h2>Direct Paypal or Venmo Donation</h2>
+	<p class="text">Donations help us save more dogs and help us find them a loving forever home. Thank you!</p>
+	
+   
 
-
-
+	
+	
+	
+<h2><a href="https://galsbestpal.com/wp-content/uploads/2022/09/ways2donate.pdf" style="font-size:24px; padding: 10px; border: 3px solid black;">Ways to Donate</a></h2><br><br>
+ </div>
+	
+<div class="row justify-content-center">
+					
 
 			<div class="row justify-content-center">
 					<h2>Become a GBP VIP</h2>
