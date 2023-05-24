@@ -53,7 +53,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 	
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-2">
-            <a href="https://www.adoptapet.com/shelter190185-dogs.html" target="_blank">
+            <a target="_blank" href="https://awo.petstablished.com/organization/2654835/widget/dogs">
                 <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
@@ -79,7 +79,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="cols-sm-3 col-md-2">
-        <a role="button" class="photo-btn sg-popup-id-179" href="https://petstablished.com/adoption_form/40983/generichttps://petstablished.com/adoption_form/40983/generic">
+        <a target="_blank" role="button" class="photo-btn sg-popup-id-179" href="https://petstablished.com/adoption_form/40983/generichttps://petstablished.com/adoption_form/40983/generic">
             <img class="img-fluid m-4" 
                 src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                 alt="Gals Best Pal logo"
