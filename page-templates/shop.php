@@ -24,15 +24,22 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<br><br>
 	<h2>Shop Amazon Products</h2>
-	<p class="text">Shop our Amazon Affiliate store for suggested products for your new PAL and a portion of the sales will help GBP!</p>
+	<p class="text">Shop our Amazon Affiliate store for some suggested products to buy your new PAL! A portion of the sales will help GBP!</p>
 	
 	<div class="row justify-content-center"><br>
-			<h2><a href="https://galsbestpal.com/wp-content/uploads/2023/01/AMAZON-SHOP.pdf" target="_blank" style="font-size:24px; padding: 10px; border: 3px solid black;">Amazon Affiliate Shop</a></h2><br><br><br>
-        </div><br>
+					<a target="_blank" href="https://galsbestpal.com/wp-content/uploads/2023/01/AMAZON-SHOP.pdf">
+			<img class="img-fluid" 
+                src="<?php echo get_template_directory_uri(); ?>/images/Amazon Affiliates.png" 
+                alt="Gals Best Pal logo"
+                height="250"
+                width="250"/>
+						</a>
+       	 			</div><br><br>
+	
 	
    
 	<h2>Bonfire Store</h2>
-	<p class="text">Click the link below to shop GBP Swag! Each item ships directly to you!</p>
+	<p class="text">Click the bonfire image below to shop GBP Swag! Each item ships directly to you!</p>
 	
 	<div class="row justify-content-center">
 					<a target="_blank" href="https://www.bonfire.com/store/gals-best-pal/">
