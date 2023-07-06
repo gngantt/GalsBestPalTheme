@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Template: Trainers
+ * Template Name: Template: Events
  *
  * Template for displaying a page just with the header and footer area and a "naked" content area in between.
  * Good for landingpages and other types of pages where you want to add a lot of custom markup.
@@ -17,7 +17,29 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="container my-5">
 	
+	<h1 style="font-size:55px">GBP Events!</h1>
+<div class="row banner justify-content-center align-baseline">
+			<div class="col-md-3">
+			<a target="_blank" href="https://www.facebook.com/galsbestpal">
+			
+			<img class="img-fluid" 
+				style="padding: 10px"
+                src="<?php echo get_template_directory_uri(); ?>/images/7-6_yappy_hour.jpg" 
+                alt="Gals Best Pal logo"
+                height="800"
+                width="800"/>
+				</a>
 
+
+			<a target="_blank" href="https://www.facebook.com/galsbestpal">
+			
+			<img class="img-fluid" 
+				style="padding: 10px"
+                src="<?php echo get_template_directory_uri(); ?>/images/8-12-natural_dog.jpg" 
+                alt="Gals Best Pal logo"
+                height="800"
+                width="800"/>
+				</a>
 	
 </div>
 
