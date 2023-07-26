@@ -20,16 +20,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<h1 style="font-size:55px">GBP Events!</h1>
 <div class="row banner justify-content-center align-baseline">
 			<div class="col-md-3">
-			<a target="_blank" href="https://www.facebook.com/galsbestpal">
 			
-			<img class="img-fluid" 
+				
+				<img class="img-fluid" 
 				style="padding: 10px"
-                src="<?php echo get_template_directory_uri(); ?>/images/7-6_yappy_hour.jpg" 
+                src="<?php echo get_template_directory_uri(); ?>/images/july-drink.jpg" 
                 alt="Gals Best Pal logo"
                 height="800"
                 width="800"/>
-				</a>
-
+				
 
 			<a target="_blank" href="https://www.facebook.com/galsbestpal">
 			
