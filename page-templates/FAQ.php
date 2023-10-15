@@ -107,7 +107,7 @@ If you are over 18 and looking to adopt, please reach out to your local shelters
 			</div>
 		</div>
 	
-		<h4>Do Can I adopt if I rent my home?</h4>
+		<h4>Can I adopt if I rent my home?</h4>
 	<div class="row justify-content-center">
 			<div class="col-9">
 				<p class="text"><b>Absolutely! <u>We ask that you let your landlord know ahead of time before submitting an application. </u>This helps us to speed up your approval process and makes for an easier conversation when our volunteers call. Breed and weight restrictions may apply, depending on your specific lease requirements. </b>
@@ -179,8 +179,7 @@ The expenses for each rescued dog almost always exceeds our adoption fee for the
 	<div class="row justify-content-center">
 			<div class="col-9">
 				<p class="text"><b> All of our adoption fees start at $695. This includes microchipping, transport, deworming, age appropriate vaccines, a new collar & leash, and their spay/neuter. We do not perform dental evaluations or cleanings.<br><br><u>Our fees as of 4/22/2023</u><br>
-Basic adoption fee: $695.00<br>
-Dogs 7+ adoption fee: $595.00
+Basic adoption fee: $695.00
 </b></p>
 		</div>
 		</div>
