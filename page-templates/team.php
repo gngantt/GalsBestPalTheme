@@ -31,16 +31,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<h2>
 		Our Founders
 	</h2>
-		<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="150"
-					 width="150"/>
-		<h3>Molleen</h3>
-			</div>
-		
 		<div class="col-sm-3 col-md-3">
 		<img class="img-fluid" 
 					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
@@ -62,7 +52,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div>
 		
 	<h2>
-		Team Leaders
+        Dircetors
 	</h2>
 		<div class="row text-center justify-content-center align-items-center buttonImage">
         <div class="col-sm-3 col-md-3">
@@ -74,94 +64,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<h3>Gabby</h3>
 			</div>		
 	
-    	 <div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="150"
-					 width="150"/>
-		<h3>Lynn</h3><br><br>
-			</div>
-			
-			
-			
-		<h2>
-		Adoption Coordinators 
-		</h2>
-		<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>1</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>2</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>3</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>4</h3>
-			</div><br><br>
-
-			
-			<div class="row text-center justify-content-center align-items-center buttonImage">
-        <div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>5</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>6</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>7</h3>
-			</div>
-			
-			<div class="col-sm-3 col-md-3">
-		<img class="img-fluid" 
-					src="<?php echo get_template_directory_uri(); ?>/images/pgbreakdog.svg" 
-					alt="Silhouette of a dog barking"
-					 height="100"
-					 width="100"/>
-		<h3>8</h3>
-			</div>
+    	 
 </div>
 
 <?php

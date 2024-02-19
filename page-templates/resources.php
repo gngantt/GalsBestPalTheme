@@ -82,7 +82,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="https://vcahospitals.com/know-your-pet/dog-behavior-problems---aggression---family-members---treatment"> Dog Behavior Problems </a>
 				
 
-				<h2><a href="https://galsbestpal.com/wp-content/uploads/2023/03/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2></br>
+				<h2><a href="https://galsbestpal.com/wp-content/uploads/2024/02/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2></br>
 
             </p>   
 

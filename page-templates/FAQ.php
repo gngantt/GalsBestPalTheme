@@ -64,7 +64,7 @@ Please let your references know we will be calling, this will help to expedite! 
 				</p>
 			</div>
 		</div>
-    <h2><a href="https://galsbestpal.com/wp-content/uploads/2023/03/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2><br><br>
+    <h2><a href="https://galsbestpal.com/wp-content/uploads/2024/02/Suggested-trainer-list.pdf"style="font-size:20px; padding: 10px; 	border: 3px solid black;">GBP Recommended Trainers</a></h2><br><br>
     
     
     <h4>I want to help a dog outside the state of Massachusetts, can you help?</h4>
@@ -98,6 +98,14 @@ If you are over 18 and looking to adopt, please reach out to your local shelters
 			</div>
 		</div>
 	
+	
+	<h4>Do you do meet and greets?</h4>
+	<div class="row justify-content-center">
+			<div class="col-9">
+				<p class="text"><b>The first step in our adoption process is filling out an application once approved. If you are interested in adopting a dog that is fostered in Massachusetts, we would set up a meet and greet.
+</b></p>
+			</div>
+		</div>
 	
 		<h4>Do I need to have a fenced yard to adopt?</h4>
 	<div class="row justify-content-center">
@@ -195,6 +203,15 @@ seriously. A large part of our mission is to cut down on the overpopulation of u
 
 </b></p>
 		</div>
+		
+		<h4>Do you adopt out puppies together that are siblings?</h4>
+	<div class="row justify-content-center">
+			<div class="col-9">
+				<p class="text"><b>We do not adopt siblings into the same home. Occasionally we have bonded pairs that we feel need to stay together, but as a general policy, we do not adopt out two dogs that are the same age at the same time.
+</b></p>
+		</div>
+		
+		
 		</div>
 		
 		

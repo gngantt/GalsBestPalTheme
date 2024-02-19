@@ -21,6 +21,144 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<hr style="height:3px;border-width:0;color:black;background-color:black">
     <h2 class="subHeader">Shopping Supports our Mission</h2>
 	
+	
+		<div class="row justify-content-center">
+			<h2>GBP Products</h2><br>
+	<div id='product-component-1706291934390'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'adba96-2.myshopify.com',
+      storefrontAccessToken: 'd1e231ac7f44ca340a68654a2fc4c553',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '9008893722944',
+        node: document.getElementById('product-component-1706291934390'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#e60a77"
+        },
+        "background-color": "#ff0b84",
+        ":focus": {
+          "background-color": "#e60a77"
+        }
+      }
+    },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
+    "text": {
+      "button": "View product"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#e60a77"
+        },
+        "background-color": "#ff0b84",
+        ":focus": {
+          "background-color": "#e60a77"
+        }
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        ":hover": {
+          "background-color": "#e60a77"
+        },
+        "background-color": "#ff0b84",
+        ":focus": {
+          "background-color": "#e60a77"
+        }
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#ff0b84",
+        ":hover": {
+          "background-color": "#e60a77"
+        },
+        ":focus": {
+          "background-color": "#e60a77"
+        }
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script><br>
 
 	<br><br>
 	<h2>Shop Amazon Products</h2>
@@ -49,7 +187,13 @@ $container = get_theme_mod( 'understrap_container_type' );
                 height="250"
                 width="250"/>
 						</a>
-       	 			</div>
+       	 			</div><br><br>
+	
+	
+	
+	
+	
+	
 				
 	
 </div>

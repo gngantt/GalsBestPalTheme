@@ -26,6 +26,12 @@ $container = get_theme_mod( 'understrap_container_type' );
             <p class="text pt-0">WE ARE A MASSACHUSETTS  501 C 3 NONPROFIT ORG.</br>
             Thank you from the bottom of our hearts for all your donations. Every dollar helps another dog in need!</p>
        
+
+		<h2>Link to Donate by Credit Card</h2>
+	<p class="text">You will receive a tax deductable receipt.</p>
+	<h2><a target="_blank" href="https://petlover.petstablished.com/online_donations/organization/2654835?pet_id=1491549&_ga=2.163410300.1530045006.1659823076-1089981098.1655487524" style="font-size:18px; padding: 10px; border: 3px solid black;">Donate by Credit Card Here!</a></h2><br><br>
+	</div>
+	
 	
 	<h2>Direct Paypal or Venmo Donation</h2>
 	<p class="text">Click on the image or scan the QR code.</p>

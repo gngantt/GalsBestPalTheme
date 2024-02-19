@@ -33,17 +33,22 @@ $container = get_theme_mod( 'understrap_container_type' );
 					width="500"/>
 			</div>
 		</div>
-
+		
 		<div class="row banner">
 			<h1>Our Mission</h1>
 		</div>
 
 		<div class="row justify-content-center">
 			<div class="col-9">
-				<p class="text">The Gals Best Pal Rescue Mission is to support locally displaced dogs in Massachusetts while also making an impact on the lives of homeless dogs nationwide. We are committed to supporting our dogs, fosters, volunteers, and adopters needs. The focus will always be on the quality of the work we are doing, while making an impact on the lives of homeless dogs. MA License #0036
-				</p>
+				<p class="text"><b>The Gals Best Pal Rescue Mission is to be a voice for the voiceless as it advocates for the dogs in its care while finding them safe, suitable, caring homes. The organization works with likeminded partners across the country and throughout the state of Massachusetts to rescue unwanted animals experiencing neglect, abuse, homelessness or at risk of euthanasia. The rescue also strives to make a difference for many unwanted dogs from different unfortunate situations. It does this by providing nurturing foster homes, promoting the importance of responsible dog ownership and, most importantly, spaying and neutering every dog that comes through the rescue as it aims to cut back on the overpopulation crisis occurring in many shelters and rescues across the nation. 501(c)3 Non-profit Organization
+				<br>
+					MA License #0036</b>
+					</p>
 			</div>
-		</div>
+
+		
+
+		<div class="row justify-content-center">
 
 		<div class="tab">
 			<div class="sec1 order-md-2">

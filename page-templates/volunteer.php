@@ -48,7 +48,7 @@ $container = get_theme_mod( 'understrap_container_type' );
     </div>
     <div class="row text-center justify-content-center align-items-center my-5">
         <div class="col-sm-3 col-md-2">
-            <a href="https://www.canva.com/design/DAFC1sJ55g0/hDrrQeW_n4OY5gkaisJXrg/view?utm_content=DAFC1sJ55g0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+            <a href="https://galsbestpal.com/wp-content/uploads/2024/01/GBP-WEBSITE-VISION-BOARD.pdf" target="_blank">
                 <img class="img-fluid m-4" 
                     src="<?php echo get_template_directory_uri(); ?>/images/CllickHere.png" 
                     alt="Gals Best Pal logo"
@@ -93,5 +93,4 @@ $container = get_theme_mod( 'understrap_container_type' );
 </div>
 
 <?php
-get_footer();
 get_footer();
