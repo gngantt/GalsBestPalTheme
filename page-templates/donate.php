@@ -67,7 +67,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			
 			
 	<div class="col-xs-3 col-sm-2 col-md-2">
-	<h2><a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/15VG4OWTTWM3V/ref=nav_wishlist_lists_1" style="font-size:18px; padding: 10px; border: 3px solid black;">Rescue Wishlist</a></h2><br><br>
+	<h2><a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/24XKQYJ59TIED?ref_=list_d_wl_lfu_nav_1" style="font-size:18px; padding: 10px; border: 3px solid black;">Rescue Wishlist</a></h2><br><br>
 	</div>
 	
 	<div class="col-xs-3 col-sm-2 col-md-2">
