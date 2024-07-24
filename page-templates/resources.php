@@ -27,7 +27,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <a href="https://animalfarmfoundation.org/wp-content/uploads/2017/09/all-dogs-are-individuals-infographic-breed-labels.pdf">The Mixed Breed Bias</a></br>
                 <a href="https://www.akc.org/expert-advice/advice/how-to-safely-greet-a-strange-dog/">How to Safely Greet a Dog</a></br>
                 <a href="https://centerforshelterdogs.tufts.edu/wp-content/uploads/2016/03/IdentifyingFearfulSignalsPoster.pdf">Dog Body Language</a></br>
-                <a href="https://www.cesar.com/dog-care/socialization/how-to-introduce-a-new-dog-to-your-current-dog">Introducing your New Dog to your Resident Dog</a></br>
+                <a href="https://www.petmd.com/dog/training/evr_introducing_a_new_dog_to_a_resident_dog?fbclid=IwZXh0bgNhZW0CMTEAAR0GFEpFfOrKURi6oZAIlIrn7Gf1TFCJmyWiwnNunS6Ms8SsQ9q2JnvwIhg_aem_sLUMARz-u0r4wcd4OhXB0Q">Introducing your New Dog to your Resident Dog</a></br>
                 <a href="https://youtu.be/BRlxhvQ8I9g">Introducing your New Dog to your Resident Cat</a></br>
 				<a href="https://www.whole-dog-journal.com/training/professional-training/how-to-find-the-best-dog-trainer-for-your-dog/?fbclid=IwAR1PqoSabZyg066Sas9QBy7LpcpyDyRJ_OGKO7uNiWPcGg5ZiqMVEmrIIn8&fs=e&s=cl">How to Find the Best Dog Trainer</a></br>
 				<a href="https://www.animalhumanesociety.org/health/parasites">Common Parasites</a></br>
